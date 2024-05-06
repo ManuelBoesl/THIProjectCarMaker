@@ -1,0 +1,139 @@
+Logfile - Project update to CarMaker 10.0
+===============================================================================
+
+Start: 2021-05-11 14:18:05
+
+Cleaning up temporary files...
+  Deleting temporary TestRun, Vehicle and Trailer files
+  Deleting temporary files in road cache
+  >> Finished.
+
+Creating source code backup ...
+  src/.cproject
+  -  Info: Copied file to src/.cproject_20210511_1418
+  src/.project
+  -  Info: Copied file to src/.project_20210511_1418
+  src/.settings/language.settings.xml
+  -  Info: Copied file to src/.settings/language.settings_20210511_1418.xml
+  src/.settings/org.eclipse.cdt.core.prefs
+  -  Info: Copied file to src/.settings/org.eclipse.cdt.core_20210511_1418.prefs
+  src/CM_Main.c
+  -  Info: Copied file to src/CM_Main_20210511_1418.c
+  src/CM_Vehicle.c
+  -  Info: Copied file to src/CM_Vehicle_20210511_1418.c
+  src/CarMaker.props
+  -  Info: Copied file to src/CarMaker_20210511_1418.props
+  src/CarMaker.vcxproj
+  -  Info: Copied file to src/CarMaker_20210511_1418.vcxproj
+  src/CarMakerInstall.vcxproj
+  -  Info: Copied file to src/CarMakerInstall_20210511_1418.vcxproj
+  src/IO.c
+  -  Info: Copied file to src/IO_20210511_1418.c
+  src/IOVec.h
+  -  Info: Copied file to src/IOVec_20210511_1418.h
+  src/Makefile
+  -  Info: Copied file to src/Makefile_20210511_1418
+  src/User.c
+  -  Info: Copied file to src/User_20210511_1418.c
+  src/User.h
+  -  Info: Copied file to src/User_20210511_1418.h
+  src/app_tmp.c
+  -  Info: Copied file to src/app_tmp_20210511_1418.c
+  src/cmenv.m
+  -  Info: Copied file to src/cmenv_20210511_1418.m
+  src/makefile.defs
+  -  Info: Copied file to src/makefile_20210511_1418.defs
+  src_cm4sl/.cproject
+  -  Info: Copied file to src_cm4sl/.cproject_20210511_1418
+  src_cm4sl/.project
+  -  Info: Copied file to src_cm4sl/.project_20210511_1418
+  src_cm4sl/.settings/language.settings.xml
+  -  Info: Copied file to src_cm4sl/.settings/language.settings_20210511_1418.xml
+  src_cm4sl/.settings/org.eclipse.cdt.core.prefs
+  -  Info: Copied file to src_cm4sl/.settings/org.eclipse.cdt.core_20210511_1418.prefs
+  src_cm4sl/CM_Main.c
+  -  Info: Copied file to src_cm4sl/CM_Main_20210511_1418.c
+  src_cm4sl/CM_Vehicle.c
+  -  Info: Copied file to src_cm4sl/CM_Vehicle_20210511_1418.c
+  src_cm4sl/IO.c
+  -  Info: Copied file to src_cm4sl/IO_20210511_1418.c
+  src_cm4sl/IOVec.h
+  -  Info: Copied file to src_cm4sl/IOVec_20210511_1418.h
+  src_cm4sl/Makefile
+  -  Info: Copied file to src_cm4sl/Makefile_20210511_1418
+  src_cm4sl/User.c
+  -  Info: Copied file to src_cm4sl/User_20210511_1418.c
+  src_cm4sl/User.h
+  -  Info: Copied file to src_cm4sl/User_20210511_1418.h
+  src_cm4sl/app_tmp.c
+  -  Info: Copied file to src_cm4sl/app_tmp_20210511_1418.c
+  src_cm4sl/cmenv.m
+  -  Info: Copied file to src_cm4sl/cmenv_20210511_1418.m
+  src_cm4sl/generic.mdl
+  -  Info: Copied file to src_cm4sl/generic_20210511_1418.mdl
+  src_cm4sl/makefile.defs
+  -  Info: Copied file to src_cm4sl/makefile_20210511_1418.defs
+  src_cm4sl/CarMaker for Simulink.props
+  -  Info: Copied file to src_cm4sl/CarMaker for Simulink_20210511_1418.props
+  src_cm4sl/CarMaker for Simulink.vcxproj
+  -  Info: Copied file to src_cm4sl/CarMaker for Simulink_20210511_1418.vcxproj
+  38 source code files have been copied
+  >> Finished.
+
+Deleting old unmodified template files...
+  0 Files deleted, 0 errors occured
+  >> Finished.
+
+Copying new files to project directory...
+  63 Files copied, 0 errors occured
+  >> Finished.
+
+Converting Simulink models...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting FMUs...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting TestRuns and TestSeries...
+  Data/TestRun/Scenario_1_2
+  Data/TestRun/Scenario_3_4
+  Data/TestRun/Scenario_4
+  Data/TestRun/scenario 1
+  Data/TestRun/scenario_2
+  Data/TestRun/scenario_3
+  6 Files converted, 0 errors occured
+  >> Finished.
+
+Converting IPGRoad files...
+  Data/Road/Scenario_1_2_openDrive.rd5
+  Data/Road/Scenario_3_4_openDrive.rd5
+  2 Files converted, 0 errors occured
+  >> Finished.
+
+Converting Vehicle files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting Trailer files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting Sensor files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting Tire files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting configuration files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+-------------------------------------------------------------------------------
+Update finished successfully. No errors occured
+-------------------------------------------------------------------------------
+
+End: 2021-05-11 14:18:22

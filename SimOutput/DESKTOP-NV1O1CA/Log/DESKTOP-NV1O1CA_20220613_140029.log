@@ -1,0 +1,151 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-06-13 14:00:29
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	14:00:30
+SIM_START	scenario 1	2022-06-13 14:00:30
+TIME	0.024
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.351
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+SIM_START	scenario 1	2022-06-13 14:00:46
+TIME	58.631
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.351
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+SIM_START	scenario 1	2022-06-13 14:00:52
+TIME	57.616
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.351
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+SIM_START	scenario 1	2022-06-13 14:01:13
+TIME	0.022
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.351
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+SIM_START	scenario 1	2022-06-13 14:01:24
+TIME	57.999
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.351
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+TIME	68.727
+SIM_START	scenario 1	2022-06-13 14:03:23
+TIME	0.022
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.351
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+TIME	67.196
+SIM_START	scenario 1	2022-06-13 14:05:06
+TIME	0.022
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.351
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+SIM_START	scenario 1	2022-06-13 14:05:22
+TIME	57.655
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.351
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+TIME	75.649
+SIM_START	scenario 1	2022-06-13 14:08:30
+TIME	94.229
+WARNING		TestRun start aborted because of state (SimCore.State=End)
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	414.460
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	0s	0m
+SIM_START	scenario 1	2022-06-13 14:08:36
+TIME	415.046
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.351
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+SIM_START	scenario 1	2022-06-13 14:08:48
+TIME	58.042
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	48.717
+ERROR		IPGDriver: licensing problem (h): license lost (-5) (id=488)
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 48.716000, ErrInd = 488). (id=200)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario 1	48.717s	513.515m
+TIME	63.347
+SIM_START	scenario 1	2022-06-13 14:12:08
+TIME	0.025
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	30.031
+ERROR		IPGDriver: licensing problem (h): license lost (-5) (id=488)
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 30.030000, ErrInd = 488). (id=200)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario 1	30.031s	283.571m
+SHUTDOWN	CarMaker quick shutdown initiated
+

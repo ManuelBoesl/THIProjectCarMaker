@@ -1,0 +1,287 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2023-02-26 12:27:05
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	12:27:05
+SIM_START	MA_Trial	2023-02-26 12:27:06
+TIME	0.001
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	71.265
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	71.261s	503.719m
+TIME	0.001
+TIME	77.111
+SIM_START	MA_Trial	2023-02-26 12:29:17
+TIME	0.003
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	24.481
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	24.478s	97.4464m
+TIME	42.368
+SIM_START	MA_Trial	2023-02-26 12:32:41
+TIME	42.368
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	15.403
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	15.4s	59.6215m
+TIME	24.380
+SIM_START	MA_Trial	2023-02-26 12:34:27
+TIME	0.007
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	20.753
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	20.748s	81.9047m
+TIME	0.001
+SIM_START	MA_Trial	2023-02-26 12:35:14
+TIME	0.004
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	46.562
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	46.558s	233.51m
+TIME	54.759
+SIM_START	MA_Trial	2023-02-26 12:37:23
+TIME	0.001
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	48.449
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	48.446s	503.213m
+SIM_START	MA_Trial	2023-02-26 12:38:30
+TIME	0.003
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	25.181
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	25.177s	243.159m
+TIME	46.980
+SIM_START	MA_Trial	2023-02-26 12:42:37
+TIME	0.008
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	44.426
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	44.422s	458.241m
+TIME	58.739
+SIM_START	MA_Trial	2023-02-26 12:45:49
+TIME	0.043
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	28.656
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	28.651s	281.985m
+TIME	31.794
+SIM_START	MA_Trial	2023-02-26 12:46:53
+TIME	0.002
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	9.575
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	9.572s	68.0396m
+TIME	0.001
+SIM_START	MA_Trial	2023-02-26 12:47:58
+TIME	0.004
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	48.292
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	48.288s	501.448m
+TIME	234.899
+SIM_START	MA_Trial	2023-02-26 15:22:52
+TIME	0.011
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	31.873
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	31.869s	317.949m
+TIME	42.671
+SIM_START	MA_Trial	2023-02-26 15:25:14
+TIME	0.006
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	45.387
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	45.382s	468.97m
+TIME	75.918
+SIM_START	MA_Trial	2023-02-26 15:31:06
+TIME	0.012
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	48.449
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	48.446s	503.213m
+TIME	59.549
+SIM_START	MA_Trial	2023-02-26 15:33:47
+TIME	0.011
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	19.576
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	19.572s	180.518m
+TIME	72.991
+SIM_START	MA_Trial	2023-02-26 15:43:02
+TIME	0.006
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	19.055
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	19.051s	174.696m
+SIM_START	MA_Trial	2023-02-26 15:43:30
+TIME	0.003
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	14.107
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	14.103s	119.437m
+TIME	34.856
+SIM_START	MA_Trial	2023-02-26 15:47:13
+TIME	0.002
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	MA_Trial
+
+TIME	45.738
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		MA_Trial	45.734s	472.904m
+TIME	140.213
+SIM_START	New_MA_CM	2023-02-26 16:03:45
+TIME	0.005
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	New_MA_CM
+
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		New_MA_CM	1.168s	3.44572m
+TIME	8.321
+SIM_START	New_MA_CM	2023-02-26 16:04:59
+TIME	8.321
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	New_MA_CM
+
+TIME	14.713
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		New_MA_CM	14.709s	126.195m
+TIME	21.024
+SIM_START	New_MA_CM	2023-02-26 16:06:17
+TIME	21.024
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	New_MA_CM
+
+TIME	28.795
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		New_MA_CM	28.79s	283.539m
+TIME	32.242
+SIM_START	New_MA_CM	2023-02-26 16:07:22
+TIME	0.001
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	New_MA_CM
+
+TIME	48.683
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		New_MA_CM	48.679s	505.819m
+TIME	67.573
+SIM_START	New_MA_CM	2023-02-26 16:11:21
+TIME	0.002
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	New_MA_CM
+
+TIME	36.290
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		New_MA_CM	36.287s	367.326m
+TIME	94.865
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,805 @@
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-05 14:19:13
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-05 14:19:51
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-05 14:20:55
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-05 14:21:15
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-05 14:21:55
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1651753315	pc-mib-mobile			0	0	0
+SIM	1651753360	pc-mib-mobile	Students	scenario_1	0	4.242	9.22591
+SIM	1651753595	pc-mib-mobile	Students	scenario_1	0	57.342	661.022
+SIM	1651753841	pc-mib-mobile	Students	scenario_1	0	57.342	661.022
+SIM	1651758215	pc-mib-mobile	Students	scenario_1	0	57.342	661.022
+SIM	1651758352	pc-mib-mobile	Students	scenario_1	0	57.342	661.022
+SIM	1651758498	pc-mib-mobile	Students	scenario_1	0	57.342	661.022
+SIM	1651758970	pc-mib-mobile	Students	scenario_1	0	9.592	59.0308
+SIM	1651758993	pc-mib-mobile	Students	scenario_1	0	2.44	0.567932
+SIM	1651759024	pc-mib-mobile	Students	scenario_1	0	41.579	352.997
+SIM	1651759116	pc-mib-mobile	Students	scenario_1	0	2.195	0.183047
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-09 14:01:24
+
+
+SYSTEM_INFO	CarMaker 10.0 - Car_Generic #603	fh@obelix.ipg 2021-04-01 16:39:49	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1652097685	pc-mib-mobile			0	0	0
+SIM	1652097688	pc-mib-mobile	Students	scenario_1	0	5.856	23.2237
+SIM	1652097738	pc-mib-mobile	Students	scenario_1	0	6.716	3.92936e-006
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-09 14:02:53
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1652097773	pc-mib-mobile			0	0	0
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-09 14:02:56
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1652097777	pc-mib-mobile			0	0	0
+SIM	1652097780	pc-mib-mobile	Students	scenario_1	0	22.357	6.30039e-006
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-09 14:04:43
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1652097884	pc-mib-mobile			0	0	0
+SIM	1652097885	pc-mib-mobile	Students	Scenario_4	1	0	0
+SIM	1652097886	pc-mib-mobile	Students	Scenario_4	1	0	0
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-09 14:13:49
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1652098430	pc-mib-mobile			0	0	0
+SIM	1652098432	pc-mib-mobile	Students	unknown	0	21.748	109.214
+SIM	1652098502	pc-mib-mobile	Students	unknown	1	0	109.214
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-09 14:15:46
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1652098547	pc-mib-mobile			0	0	0
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-09 14:15:49
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1652098549	pc-mib-mobile			0	0	0
+SIM	1652098553	pc-mib-mobile	Students	Test	0	200	1881.35
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-09 17:36:17
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1652110577	pc-mib-mobile			0	0	0
+SIM	1652110579	pc-mib-mobile	Students	Test	0	177.243	1669.62
+SIM	1652110814	pc-mib-mobile	Students	Test	0	70.454	734.157
+SIM	1652110887	pc-mib-mobile	Students	Test	1	179.195	1691.44
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-05-11 10:35:00
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1652258101	pc-mib-mobile			0	0	0
+SIM	1652258106	pc-mib-mobile	Students	scenario_1	0	5.023	15.628
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-22 14:46:18
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1655901978	pc-mib-mobile			0	0	0
+SIM	1655901979	pc-mib-mobile	Students	scenario_1_and_2	0	62.757	465.244
+SIM	1655902044	pc-mib-mobile	Students	scenario_3_and_4	0	23.286	158.245
+SIM	1655902079	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655902810	pc-mib-mobile	Students	scenario_3_and_4	0	89.704	887.623
+SIM	1655904086	pc-mib-mobile	Students	scenario_3_and_4	0	69.705	658.895
+SIM	1655904158	pc-mib-mobile	Students	scenario_3_and_4	0	73.954	717.907
+SIM	1655904235	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655904559	pc-mib-mobile	Students	scenario_3_and_4	0	74.877	730.726
+SIM	1655904636	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655905393	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655905854	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655905982	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655906159	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655906275	pc-mib-mobile	Students	scenario_3_and_4	0	92.638	904.857
+SIM	1655907548	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655907777	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655908776	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655908952	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655909111	pc-mib-mobile	Students	scenario_1_and_2	0	80.45	597.463
+SIM	1655909272	pc-mib-mobile	Students	scenario_2	0	4.832	25.5946
+SIM	1655909285	pc-mib-mobile	Students	scenario_2	0	10.8	67.0401
+SIM	1655909301	pc-mib-mobile	Students	scenario_1_and_2	0	80.45	597.463
+SIM	1655909586	pc-mib-mobile	Students	scenario_1_and_2	0	80.45	597.463
+SIM	1655909697	pc-mib-mobile	Students	scenario_1_and_2	0	80.45	597.463
+SIM	1655909804	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-23 13:22:05
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1655983326	pc-mib-mobile			0	0	0
+SIM	1655983393	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655983521	pc-mib-mobile	Students	scenario_1_and_2	0	67.251	495.06
+SIM	1655983725	pc-mib-mobile	Students	scenario_1_and_2	0	27.677	112.521
+SIM	1655983757	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655984053	pc-mib-mobile	Students	scenario_1_and_2	0	61.251	449.517
+SIM	1655984117	pc-mib-mobile	Students	scenario_1_and_2	0	7.232	27.3354
+SIM	1655984134	pc-mib-mobile	Students	scenario_1_and_2	0	6.725	25.2116
+SIM	1655984143	pc-mib-mobile	Students	scenario_1_and_2	0	16.861	67.4537
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-23 13:36:26
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1655984186	pc-mib-mobile			0	0	0
+SIM	1655984187	pc-mib-mobile	Students	scenario_1_and_2	0	20.41	82.2411
+SIM	1655984234	pc-mib-mobile	Students	scenario_3_and_4	0	12.022	95.6148
+SIM	1655984263	pc-mib-mobile	Students	scenario_3_and_4	0	11.457	90.8057
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-23 13:39:01
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1655984341	pc-mib-mobile			0	0	0
+SIM	1655984342	pc-mib-mobile	Students	scenario_3_and_4	0	5.195	12.9664
+SIM	1655984364	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655984471	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655984752	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655984904	pc-mib-mobile	Students	scenario_1_and_2	0	80.1	595.826
+SIM	1655984986	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655985073	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655986635	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655986876	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655988096	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655988505	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655988648	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655988805	pc-mib-mobile	Students	scenario_3_and_4	0	7.802	42.8435
+SIM	1655989010	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655989166	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655989471	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655989632	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655990204	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655990882	pc-mib-mobile	Students	scenario_1_and_2	0	9.024	34.807
+SIM	1655990904	pc-mib-mobile	Students	scenario_1_and_2	0	5.4	19.6144
+SIM	1655990919	pc-mib-mobile	Students	scenario_1_and_2	0	30.48	124.2
+SIM	1655991190	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655991336	pc-mib-mobile	Students	scenario_1_and_2	0	46.942	251.86
+SIM	1655991684	pc-mib-mobile	Students	scenario_1_and_2	0	66.185	487.289
+SIM	1655991753	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655991844	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655992050	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655992182	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655992561	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655992737	pc-mib-mobile	Students	scenario_3_and_4	0	12.03	95.6761
+SIM	1655992751	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655992843	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655992975	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655993112	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655993227	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655993384	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655993476	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655995307	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655995565	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655995680	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655996112	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655996372	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655996693	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655997038	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1655997168	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655997810	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1655997944	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-24 09:30:29
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656055829	pc-mib-mobile			0	0	0
+SIM	1656055830	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656056814	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656056971	pc-mib-mobile	Students	scenario_1_and_2	0	57.643	399.761
+SIM	1656057036	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656057142	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656057404	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656057498	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656057641	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656057840	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656058148	pc-mib-mobile	Students	scenario_1_and_2	0	14.025	55.6367
+SIM	1656058175	pc-mib-mobile	Students	scenario_1_and_2	0	11.046	43.2255
+SIM	1656058251	pc-mib-mobile	Students	scenario_1_and_2	0	19.144	76.9662
+SIM	1656058275	pc-mib-mobile	Students	scenario_1_and_2	0	24.249	98.2373
+SIM	1656058555	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656058793	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656059019	pc-mib-mobile	Students	scenario_1_and_2	0	79.564	593.043
+SIM	1656059101	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656059369	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656059652	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656059894	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656060012	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656060105	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656060202	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656060379	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656060500	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656060651	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656060740	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656060906	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656061056	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656061765	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656062094	pc-mib-mobile	Students	scenario_3_and_4	0	95.267	919.488
+SIM	1656062195	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656062714	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656063283	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656063446	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656067807	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656068034	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656069188	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656069363	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656069689	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656069846	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656070041	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656070178	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656070308	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656070423	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656070670	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656070879	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656071028	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656071288	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656071532	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656071743	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656071908	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656072136	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656072881	pc-mib-mobile	Students	scenario_1_and_2	0	32.355	132.013
+SIM	1656072915	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656073444	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656074340	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656074509	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656075017	pc-mib-mobile	Students	scenario_3_and_4	0	107.8	1061.64
+SIM	1656075151	pc-mib-mobile	Students	scenario_3_and_4	0	107.7	1060.39
+SIM	1656075518	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656075907	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656076063	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656076653	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656078625	pc-mib-mobile	Students	scenario_3_and_4	0	28.633	159.135
+SIM	1656078656	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656079603	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656079744	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656079866	pc-mib-mobile	Students	scenario_1_and_2	0	72.737	544.184
+SIM	1656079940	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656080028	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656081415	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656081520	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-27 09:17:27
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656314247	pc-mib-mobile			0	0	0
+SIM	1656314248	pc-mib-mobile	Students	scenario_1_and_2	0	49.802	291.135
+SIM	1656314306	pc-mib-mobile	Students	scenario_1_and_2	0	5.641	20.6384
+SIM	1656314315	pc-mib-mobile	Students	scenario_1_and_2	0	7.378	27.9458
+SIM	1656314335	pc-mib-mobile	Students	scenario_1_and_2	0	14.064	55.7992
+SIM	1656314390	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656314526	pc-mib-mobile	Students	scenario_3_and_4	0	9.8	70.0764
+SIM	1656314549	pc-mib-mobile	Students	scenario_3_and_4	0	8.775	55.9324
+SIM	1656314596	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656318460	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656318663	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656319200	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656321370	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656321596	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656322049	pc-mib-mobile	Students	scenario_3_and_4	0	58.675	505.697
+SIM	1656322109	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656323191	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656323442	pc-mib-mobile	Students	scenario_3_and_4	0	90.463	892.109
+SIM	1656323535	pc-mib-mobile	Students	scenario_3_and_4	0	81.514	822.484
+SIM	1656323621	pc-mib-mobile	Students	scenario_3_and_4	0	37.724	214.865
+SIM	1656323663	pc-mib-mobile	Students	scenario_3_and_4	0	74.123	720.254
+SIM	1656326330	pc-mib-mobile	Students	scenario_3_and_4	0	61.416	543.763
+SIM	1656326399	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656326560	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656326782	pc-mib-mobile	Students	scenario_3_and_4	0	44.706	311.685
+SIM	1656326845	pc-mib-mobile	Students	scenario_3_and_4	0	43.767	298.643
+SIM	1656327378	pc-mib-mobile	Students	scenario_3_and_4	0	60.386	529.46
+SIM	1656327442	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656328089	pc-mib-mobile	Students	scenario_3_and_4	0	88.52	880.88
+SIM	1656328182	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656328573	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656328767	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656329411	pc-mib-mobile	Students	scenario_3_and_4	0	76.827	757.809
+SIM	1656329490	pc-mib-mobile	Students	scenario_3_and_4	0	84.334	849.517
+SIM	1656329577	pc-mib-mobile	Students	scenario_3_and_4	0	89.766	887.981
+SIM	1656329669	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656329944	pc-mib-mobile	Students	scenario_3_and_4	0	70.027	663.369
+SIM	1656330017	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656330280	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-28 09:27:44
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656401265	pc-mib-mobile			0	0	0
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-28 09:29:18
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656401359	pc-mib-mobile			0	0	0
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-28 09:30:27
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656401427	pc-mib-mobile			0	0	0
+SIM	1656401468	pc-mib-mobile	Students	scenario_3_and_4	0	67.367	626.418
+SIM	1656401545	pc-mib-mobile	Students	scenario_3_and_4	0	80.615	810.42
+SIM	1656401636	pc-mib-mobile	Students	scenario_3_and_4	0	55.806	465.85
+SIM	1656401734	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656401871	pc-mib-mobile	Students	scenario_3_and_4	0	58.382	501.628
+SIM	1656401938	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656402332	pc-mib-mobile	Students	scenario_3_and_4	0	60.964	537.487
+SIM	1656402402	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656402663	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656402949	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656403304	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656403491	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656403699	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656404028	pc-mib-mobile	Students	scenario_3_and_4	0	99.993	964.495
+SIM	1656404133	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656404289	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656404452	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656404568	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656404693	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656404836	pc-mib-mobile	Students	scenario_3_and_4	0	89.279	885.2
+SIM	1656404934	pc-mib-mobile	Students	scenario_3_and_4	0	86.642	868.432
+SIM	1656405060	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656405275	pc-mib-mobile	Students	scenario_3_and_4	0	101.297	980.513
+SIM	1656405380	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656405536	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656405800	pc-mib-mobile	Students	scenario_3_and_4	0	105.952	1038.54
+SIM	1656405908	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656406103	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656406303	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656406568	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656406740	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656406857	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656407208	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656407399	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656407523	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656407748	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656407970	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656408207	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656408405	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656409258	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656409404	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656412859	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656412984	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656413154	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656413386	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656413551	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656413673	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656413822	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656414001	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656414320	pc-mib-mobile	Students	scenario_1_and_2	0	10.916	42.6841
+SIM	1656414348	pc-mib-mobile	Students	scenario_1_and_2	0	12.629	49.8199
+SIM	1656414407	pc-mib-mobile	Students	scenario_1_and_2	0	12.986	51.3074
+SIM	1656414528	pc-mib-mobile	Students	scenario_1_and_2	0	69.615	520.228
+SIM	1656414603	pc-mib-mobile	Students	scenario_1_and_2	0	39.468	162.126
+SIM	1656414645	pc-mib-mobile	Students	scenario_1_and_2	0	38.953	159.554
+SIM	1656414688	pc-mib-mobile	Students	scenario_1_and_2	0	32.197	131.354
+SIM	1656414726	pc-mib-mobile	Students	scenario_1_and_2	0	47.462	259.06
+SIM	1656414777	pc-mib-mobile	Students	scenario_1_and_2	0	63.235	468.85
+SIM	1656414946	pc-mib-mobile	Students	scenario_1_and_2	0	57.931	403.761
+SIM	1656415027	pc-mib-mobile	Students	scenario_1_and_2	0	58.729	414.844
+SIM	1656415208	pc-mib-mobile	Students	scenario_1_and_2	0	47.907	265.227
+SIM	1656415266	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656415575	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656415697	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656415844	pc-mib-mobile	Students	scenario_1_and_2	0	53.928	348.168
+SIM	1656415900	pc-mib-mobile	Students	scenario_1_and_2	0	46.806	249.978
+SIM	1656415953	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656416114	pc-mib-mobile	Students	scenario_1_and_2	0	62.507	463.171
+SIM	1656416179	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656416362	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656416571	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656417045	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656417281	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656418058	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656418270	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656418590	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656419250	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656419402	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-28 16:16:34
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656425794	pc-mib-mobile			0	0	0
+SIM	1656425796	pc-mib-mobile	Students	scenario_1_and_2	0	49.028	280.596
+SIM	1656425855	pc-mib-mobile	Students	scenario_1_and_2	0	25.726	104.392
+SIM	1656425886	pc-mib-mobile	Students	scenario_1_and_2	0	11.913	46.8369
+SIM	1656425902	pc-mib-mobile	Students	scenario_1_and_2	0	6.665	24.9597
+SIM	1656425913	pc-mib-mobile	Students	scenario_1_and_2	0	32.017	130.604
+SIM	1656425953	pc-mib-mobile	Students	scenario_1_and_2	0	52.349	326.255
+SIM	1656426091	pc-mib-mobile	Students	scenario_1_and_2	0	78.612	587.673
+SIM	1656426172	pc-mib-mobile	Students	scenario_1_and_2	0	66.619	490.234
+SIM	1656426248	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656429026	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656429246	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-29 09:13:29
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656486810	pc-mib-mobile			0	0	0
+SIM	1656486819	pc-mib-mobile	Students	scenario_1_and_2	0	4.781	16.9735
+SIM	1656486838	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656486932	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656487061	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656487418	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656488141	pc-mib-mobile	Students	scenario_3_and_4	0	10.447	78.9636
+SIM	1656488162	pc-mib-mobile	Students	scenario_3_and_4	0	3.8	3.76818
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-29 09:36:31
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656488192	pc-mib-mobile			0	0	0
+SIM	1656488192	pc-mib-mobile	Students	scenario_1_and_2	0	3.612	12.0023
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-29 09:37:46
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656488266	pc-mib-mobile			0	0	0
+SIM	1656488267	pc-mib-mobile	Students	scenario_3_and_4	0	65.071	594.525
+SIM	1656488553	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656488714	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656488929	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656489018	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656489111	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656489217	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656489356	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656489605	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656489708	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656490110	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656490548	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656491043	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656491369	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656491485	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-29 15:47:44
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656510464	pc-mib-mobile			0	0	0
+SIM	1656510466	pc-mib-mobile	Students	scenario_1_and_2	0	26.669	108.321
+SIM	1656510500	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656510587	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656510688	pc-mib-mobile	Students	scenario_1_and_2	0	17.439	69.8621
+SIM	1656510934	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656511028	pc-mib-mobile	Students	scenario_1_and_2	0	47.133	254.503
+SIM	1656511098	pc-mib-mobile	Students	scenario_1_and_2	0	57.119	392.484
+SIM	1656511157	pc-mib-mobile	Students	scenario_1_and_2	0	79.514	592.769
+SIM	1656511333	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656511588	pc-mib-mobile	Students	scenario_1_and_2	0	77.007	577.361
+SIM	1656511668	pc-mib-mobile	Students	scenario_1_and_2	0	53.984	348.945
+SIM	1656511727	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656511915	pc-mib-mobile	Students	scenario_1_and_2	0	32.733	133.588
+SIM	1656511956	pc-mib-mobile	Students	scenario_1_and_2	0	67.198	494.624
+SIM	1656512025	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656512207	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656512370	pc-mib-mobile	Students	scenario_1_and_2	0	42.366	190.684
+SIM	1656512425	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656512534	pc-mib-mobile	Students	scenario_1_and_2	0	66.331	488.254
+SIM	1656512602	pc-mib-mobile	Students	scenario_1_and_2	0	44.546	218.942
+SIM	1656512655	pc-mib-mobile	Students	scenario_1_and_2	0	27.457	111.604
+SIM	1656512692	pc-mib-mobile	Students	scenario_1_and_2	0	45.45	231.283
+SIM	1656512747	pc-mib-mobile	Students	scenario_1_and_2	0	43.127	200.126
+SIM	1656512800	pc-mib-mobile	Students	scenario_1_and_2	0	43.316	202.559
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-06-30 09:16:27
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656573388	pc-mib-mobile			0	0	0
+SIM	1656573389	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656573655	pc-mib-mobile	Students	scenario_1_and_2	0	51.576	315.547
+SIM	1656573716	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656573893	pc-mib-mobile	Students	scenario_1_and_2	0	47.561	260.432
+SIM	1656573948	pc-mib-mobile	Students	scenario_1_and_2	0	46.584	246.909
+SIM	1656574008	pc-mib-mobile	Students	scenario_1_and_2	0	44.27	215.211
+SIM	1656574056	pc-mib-mobile	Students	scenario_1_and_2	0	38.11	155.992
+SIM	1656574120	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656574569	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656574910	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656575286	pc-mib-mobile	Students	scenario_1_and_2	0	66.891	492.218
+SIM	1656575355	pc-mib-mobile	Students	scenario_1_and_2	0	32.621	133.121
+SIM	1656575392	pc-mib-mobile	Students	scenario_1_and_2	0	71.472	535.526
+SIM	1656575468	pc-mib-mobile	Students	scenario_1_and_2	0	51.006	307.67
+SIM	1656575525	pc-mib-mobile	Students	scenario_1_and_2	0	38.534	157.759
+SIM	1656575577	pc-mib-mobile	Students	scenario_1_and_2	0	28.367	115.396
+SIM	1656575672	pc-mib-mobile	Students	scenario_1_and_2	0	36.296	148.434
+SIM	1656575717	pc-mib-mobile	Students	scenario_1_and_2	0	48.97	279.808
+SIM	1656575783	pc-mib-mobile	Students	scenario_1_and_2	0	73.239	547.656
+SIM	1656575864	pc-mib-mobile	Students	scenario_1_and_2	0	39.528	162.468
+SIM	1656575912	pc-mib-mobile	Students	scenario_1_and_2	0	40.413	168.873
+SIM	1656575959	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656576050	pc-mib-mobile	Students	scenario_1_and_2	0	32.253	131.588
+SIM	1656576117	pc-mib-mobile	Students	scenario_1_and_2	0	45.64	233.893
+SIM	1656576175	pc-mib-mobile	Students	scenario_1_and_2	0	44.961	224.589
+SIM	1656576225	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656576395	pc-mib-mobile	Students	scenario_1_and_2	0	36.394	148.842
+SIM	1656576478	pc-mib-mobile	Students	scenario_1_and_2	0	41.785	183.525
+SIM	1656576528	pc-mib-mobile	Students	scenario_1_and_2	0	45.673	234.346
+SIM	1656576579	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656577796	pc-mib-mobile	Students	scenario_1_and_2	0	3.335	10.8535
+SIM	1656577806	pc-mib-mobile	Students	scenario_3_and_4	0	53.641	435.781
+SIM	1656577866	pc-mib-mobile	Students	scenario_3_and_4	0	21.409	153.827
+SIM	1656577983	pc-mib-mobile	Students	scenario_3_and_4	0	47.825	355.004
+SIM	1656578067	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656578244	pc-mib-mobile	Students	scenario_3_and_4	0	56.891	480.92
+SIM	1656578424	pc-mib-mobile	Students	scenario_3_and_4	0	48.75	367.851
+SIM	1656578770	pc-mib-mobile	Students	scenario_3_and_4	0	33.091	164.646
+SIM	1656578879	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656579021	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656579298	pc-mib-mobile	Students	scenario_3_and_4	0	72.858	702.687
+SIM	1656579376	pc-mib-mobile	Students	scenario_3_and_4	0	41.882	272.465
+SIM	1656579434	pc-mib-mobile	Students	scenario_3_and_4	0	32.826	163.308
+SIM	1656579805	pc-mib-mobile	Students	scenario_3_and_4	0	30.734	159.234
+SIM	1656579845	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656580006	pc-mib-mobile	Students	scenario_3_and_4	0	53.234	430.129
+SIM	1656580064	pc-mib-mobile	Students	scenario_3_and_4	0	44.594	310.129
+SIM	1656580281	pc-mib-mobile	Students	scenario_3_and_4	0	42.479	280.756
+SIM	1656580342	pc-mib-mobile	Students	scenario_3_and_4	0	38.678	228.023
+SIM	1656580395	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656580522	pc-mib-mobile	Students	scenario_3_and_4	0	81.113	817.242
+SIM	1656580608	pc-mib-mobile	Students	scenario_3_and_4	0	59.483	516.919
+SIM	1656580678	pc-mib-mobile	Students	scenario_3_and_4	0	97.486	935.672
+SIM	1656580783	pc-mib-mobile	Students	scenario_3_and_4	0	94.703	916.354
+SIM	1656580880	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656581692	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656581880	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656582046	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656582207	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656582349	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656582490	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656582615	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656582873	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656586845	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656587286	pc-mib-mobile	Students	scenario_3_and_4	0	16.376	123.353
+SIM	1656587316	pc-mib-mobile	Students	scenario_3_and_4	0	52.304	417.212
+SIM	1656587710	pc-mib-mobile	Students	scenario_3_and_4	0	107.75	1061.01
+SIM	1656587885	pc-mib-mobile	Students	scenario_3_and_4	0	108.1	1064.13
+SIM	1656588179	pc-mib-mobile	Students	scenario_3_and_4	0	108.1	1064.13
+SIM	1656588495	pc-mib-mobile	Students	scenario_3_and_4	0	108.2	1063.97
+SIM	1656588875	pc-mib-mobile	Students	scenario_3_and_4	0	13.356	104.78
+SIM	1656588963	pc-mib-mobile	Students	scenario_3_and_4	0	108.4	1064.59
+SIM	1656589099	pc-mib-mobile	Students	scenario_3_and_4	0	108.4	1064.59
+SIM	1656589223	pc-mib-mobile	Students	scenario_3_and_4	0	108.4	1064.59
+SIM	1656589365	pc-mib-mobile	Students	scenario_3_and_4	0	108.4	1064.59
+SIM	1656589503	pc-mib-mobile	Students	scenario_3_and_4	0	108.1	1060.84
+SIM	1656589642	pc-mib-mobile	Students	scenario_3_and_4	0	108.2	1062.09
+SIM	1656589940	pc-mib-mobile	Students	scenario_3_and_4	0	108.2	1062.09
+SIM	1656590081	pc-mib-mobile	Students	scenario_3_and_4	0	107.9	1059.56
+SIM	1656590216	pc-mib-mobile	Students	scenario_3_and_4	0	107.85	1059.6
+SIM	1656590353	pc-mib-mobile	Students	scenario_3_and_4	0	107.6	1058.52
+SIM	1656590491	pc-mib-mobile	Students	scenario_3_and_4	0	107.9	1062.27
+SIM	1656591014	pc-mib-mobile	Students	scenario_3_and_4	0	107.9	1062.27
+SIM	1656591154	pc-mib-mobile	Students	scenario_3_and_4	0	6.818	30.3373
+SIM	1656591284	pc-mib-mobile	Students	scenario_3_and_4	0	107.9	1062.27
+SIM	1656591594	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656591719	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656591947	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656592129	pc-mib-mobile	Students	scenario_1_and_2	0	59.857	430.511
+SIM	1656592191	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656593336	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656593444	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656594325	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656595893	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656596108	pc-mib-mobile	Students	scenario_1_and_2	0	34.614	141.425
+SIM	1656596153	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656596244	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656596396	pc-mib-mobile	Students	scenario_1_and_2	0	23.734	96.0914
+SIM	1656596441	pc-mib-mobile	Students	scenario_1_and_2	0	43.071	199.412
+SIM	1656596514	pc-mib-mobile	Students	scenario_1_and_2	0	34.634	141.509
+SIM	1656596550	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656596708	pc-mib-mobile	Students	scenario_1_and_2	0	43.768	208.494
+SIM	1656596843	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656596942	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656597044	pc-mib-mobile	Students	scenario_1_and_2	0	32.52	132.7
+SIM	1656597182	pc-mib-mobile	Students	scenario_1_and_2	0	74.562	557.67
+SIM	1656597258	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656597371	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656597491	pc-mib-mobile	Students	scenario_1_and_2	0	43.931	210.663
+SIM	1656598038	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656598163	pc-mib-mobile	Students	scenario_1_and_2	0	19.929	80.237
+SIM	1656598185	pc-mib-mobile	Students	scenario_1_and_2	0	5.031	18.0417
+SIM	1656598199	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656598287	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656598810	pc-mib-mobile	Students	scenario_1_and_2	0	69.24	516.127
+SIM	1656598893	pc-mib-mobile	Students	scenario_1_and_2	0	72.52	542.726
+SIM	1656598966	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656599100	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656599269	pc-mib-mobile	Students	scenario_1_and_2	0	70.661	529.505
+SIM	1656599361	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656599455	pc-mib-mobile	Students	scenario_1_and_2	0	33.269	135.821
+SIM	1656599535	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656600017	pc-mib-mobile	Students	scenario_1_and_2	0	62.769	465.34
+SIM	1656600082	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656600396	pc-mib-mobile	Students	scenario_3_and_4	0	63.682	573.677
+SIM	1656600462	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656600611	pc-mib-mobile	Students	scenario_3_and_4	0	55.01	453.241
+SIM	1656600673	pc-mib-mobile	Students	scenario_3_and_4	0	104.74	1022.14
+SIM	1656600783	pc-mib-mobile	Students	scenario_3_and_4	0	68.981	647.284
+SIM	1656600853	pc-mib-mobile	Students	scenario_3_and_4	0	81.804	824.817
+SIM	1656600941	pc-mib-mobile	Students	scenario_3_and_4	0	68.6	641.991
+SIM	1656601018	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656601213	pc-mib-mobile	Students	scenario_1_and_2	0	67.826	500.233
+SIM	1656601293	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656601460	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656601544	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656601973	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656602076	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656602367	pc-mib-mobile	Students	scenario_1_and_2	0	14.38	57.1159
+SIM	1656602417	pc-mib-mobile	Students	scenario_1_and_2	0	41.299	177.836
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-07-01 09:11:09
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656659469	pc-mib-mobile			0	0	0
+SIM	1656659539	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656660342	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656660870	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656661049	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656661694	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656663206	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656663394	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656664420	pc-mib-mobile	Students	scenario_3_and_4	0	103.448	1006.02
+SIM	1656664526	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656664733	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656664904	pc-mib-mobile	Students	scenario_3_and_4	0	34.189	171.989
+SIM	1656664945	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656665226	pc-mib-mobile	Students	scenario_3_and_4	0	44.395	305.811
+SIM	1656665275	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656665445	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656667611	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656667781	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656668178	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656668302	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656668528	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656668713	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656668866	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656669100	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656669266	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656669387	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656669507	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656676317	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656676459	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656676600	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656676771	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656676906	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656677156	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656677421	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656677686	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656677791	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656677887	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656677987	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656678081	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656678192	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656678288	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656679370	pc-mib-mobile	Students	scenario_1_and_2	0	47.382	257.952
+SIM	1656679430	pc-mib-mobile	Students	scenario_3_and_4	0	41.403	264.262
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-07-01 14:45:30
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656679530	pc-mib-mobile			0	0	0
+SIM	1656679531	pc-mib-mobile	Students	scenario_3_and_4	0	5.243	13.3842
+SIM	1656679548	pc-mib-mobile	Students	scenario_3_and_4	0	43.36	291.437
+SIM	1656679595	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656679727	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656679825	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656679919	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656680057	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656680239	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656680495	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656680772	pc-mib-mobile	Students	scenario_3_and_4	0	23.688	159.611
+SIM	1656680819	pc-mib-mobile	Students	scenario_3_and_4	0	107.95	1062.26
+SIM	1656680991	pc-mib-mobile	Students	scenario_3_and_4	0	107.3	1054.13
+SIM	1656681125	pc-mib-mobile	Students	scenario_3_and_4	0	107.3	1054.13
+SIM	1656681354	pc-mib-mobile	Students	scenario_3_and_4	0	107.3	1054.13
+SIM	1656681489	pc-mib-mobile	Students	scenario_3_and_4	0	107.3	1054.13
+SIM	1656681637	pc-mib-mobile	Students	scenario_3_and_4	0	107.3	1054.13
+SIM	1656681803	pc-mib-mobile	Students	scenario_3_and_4	0	107.4	1055.38
+SIM	1656681924	pc-mib-mobile	Students	scenario_3_and_4	0	47.742	352.297
+SIM	1656681973	pc-mib-mobile	Students	scenario_3_and_4	0	57.985	494.56
+SIM	1656682036	pc-mib-mobile	Students	scenario_3_and_4	0	107.3	1054.13
+SIM	1656682182	pc-mib-mobile	Students	scenario_3_and_4	0	107.3	1054.13
+SIM	1656682304	pc-mib-mobile	Students	scenario_3_and_4	0	107.3	1054.13
+SIM	1656682470	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656682685	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656682787	pc-mib-mobile	Students	scenario_3_and_4	0	107.3	1054.13
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-07-04 09:17:15
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656919035	pc-mib-mobile			0	0	0
+SIM	1656919103	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656919258	pc-mib-mobile	Students	scenario_3_and_4	0	107.3	1054.13
+SIM	1656919445	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656920182	pc-mib-mobile	Students	scenario_1_and_2	0	10.582	41.2932
+SIM	1656920209	pc-mib-mobile	Students	scenario_1_and_2	0	5.77	21.1854
+
+
+SYSTEM_START	-	pc-mib-mobile	pc-mib-mobile	2022-07-04 09:38:53
+
+
+SYSTEM_INFO	Car_Generic &lt;insert.your.version.no&gt; #24	Students@pc-mib-mobile 2021-07-06 17:16:41	(10.0 fh@obelix.ipg 2021-04-01 16:39:43)
+SIM	1656920334	pc-mib-mobile			0	0	0
+SIM	1656920335	pc-mib-mobile	Students	scenario_1_and_2	0	67.618	498.263
+SIM	1656920420	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656921697	pc-mib-mobile	Students	scenario_1_and_2	0	77.614	581.564
+SIM	1656921778	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656922499	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656922602	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656923110	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656923203	pc-mib-mobile	Students	scenario_1_and_2	0	62.832	465.837
+SIM	1656923271	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656923365	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656924564	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656924765	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656925431	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921
+SIM	1656925552	pc-mib-mobile	Students	scenario_1_and_2	0	80.55	597.921

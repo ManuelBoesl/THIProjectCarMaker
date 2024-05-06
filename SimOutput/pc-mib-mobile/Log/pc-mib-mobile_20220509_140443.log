@@ -1,0 +1,31 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-05-09 14:04:44
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	14:04:44
+SIM_START	Scenario_4	2022-05-09 14:04:45
+TIME	0.067
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.055
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=18544, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	Scenario_4	0s	0m
+SIM_START	Scenario_4	2022-05-09 14:04:46
+TIME	0.002
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=18544, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	Scenario_4	0s	0m
+TIME	14.141
+SHUTDOWN	CarMaker quick shutdown initiated
+

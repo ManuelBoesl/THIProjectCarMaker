@@ -1,0 +1,18 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = Scenario-BumpConfig 1.0
+FileCreator = CarMaker 10.2
+
+Name = Default
+Prio = 1
+
+Gutter = slope 0.3
+Gutter.Material = Textures/Ground/Curbstone.png 0 0 absolute absolute center center 2 0.5 0 0 0
+
+Curb = r5 0.15
+Curb.Material = Textures/Ground/Curbstone.png 0 0 absolute absolute center center 2 1 0 0 0
+
+Sidewalk = 2.5 2.5 0.12 0.12 0.12 0.12
+Sidewalk.Material = Textures/Ground/Pavement_01.jpg 0 0 absolute absolute right center 1 1 0 0 0
+
+InnerArea = 0.0
+InnerArea.Material = Textures/Ground/Grass_02.jpg 0 0 absolute absolute center center 1 1 0 0 0

@@ -1,0 +1,26 @@
+APPLICATION	CarMaker 10.0 - Car_Generic #603 (win64-10.0)
+COMPILED	fh@obelix.ipg 2021-04-01 16:39:49
+ 
+FIRST_INIT	(internal default used)	2022-05-09 14:01:25
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:01:25
+SIM_START	scenario 1	2022-05-09 14:01:28
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	5.860
+SIM_END		scenario 1	5.856s	23.2237m
+TIME	9.987
+SIM_START	scenario 1	2022-05-09 14:02:18
+TIME	0.017
+		Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1652097738
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	6.720
+SIM_END		scenario 1	6.716s	3.92936e-006m
+TIME	9.169
+SHUTDOWN	CarMaker quick shutdown initiated
+

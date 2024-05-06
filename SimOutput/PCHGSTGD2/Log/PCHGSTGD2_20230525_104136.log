@@ -1,0 +1,21 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2023-05-25 10:41:36
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	10:41:37
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-25 10:41:38
+TIME	0.109
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

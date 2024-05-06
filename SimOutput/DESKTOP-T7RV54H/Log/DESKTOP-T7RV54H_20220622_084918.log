@@ -1,0 +1,30 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-06-22 08:49:18
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	08:49:19
+SIM_START	scenario 1	2022-06-22 08:49:20
+TIME	0.128
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.010
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655880560
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	31.402
+		Connection closed... 
+SIM_END		scenario 1	31.398s	231.571m
+SHUTDOWN	CarMaker quick shutdown initiated
+

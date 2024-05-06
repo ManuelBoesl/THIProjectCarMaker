@@ -1,0 +1,480 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2022-07-18 11:41:12
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	11:41:13
+SIM_START	scenario_3_and_4	2022-07-18 11:41:13
+TIME	0.026
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	107.303
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	107.3s	1049.64m
+TIME	694.535
+SIM_START	scenario_3_and_4	2022-07-18 13:20:54
+TIME	694.535
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	97.303
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	97.3s	1036.53m
+TIME	109.649
+SIM_START	scenario_3_and_4	2022-07-18 13:24:36
+TIME	109.649
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	28.130
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	28.126s	221.391m
+SIM_START	scenario_3_and_4	2022-07-18 13:25:07
+TIME	28.234
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	30.739
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	30.735s	256.648m
+TIME	37.957
+SIM_START	scenario_3_and_4	2022-07-18 13:26:51
+TIME	37.957
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	34.943
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	34.939s	319.043m
+SIM_START	scenario_3_and_4	2022-07-18 13:27:34
+TIME	35.594
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	93.926
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	93.922s	1005.73m
+TIME	99.473
+SIM_START	scenario_3_and_4	2022-07-18 13:30:04
+TIME	99.473
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	26.342
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	26.338s	208.558m
+SIM_START	scenario_3_and_4	2022-07-18 13:30:50
+TIME	28.152
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	25.648
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	25.644s	177.981m
+SIM_START	scenario_3_and_4	2022-07-18 13:31:29
+TIME	26.845
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	30.649
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	30.645s	246.462m
+SIM_START	scenario_3_and_4	2022-07-18 13:32:14
+TIME	31.932
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	91.453
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	91.45s	925.093m
+SIM_START	scenario_3_and_4	2022-07-18 13:33:57
+TIME	92.529
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	90.931
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	90.927s	946.017m
+SIM_START	scenario_3_and_4	2022-07-18 13:35:35
+TIME	91.542
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	92.310
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	92.306s	973.935m
+SIM_START	scenario_3_and_4	2022-07-18 13:37:18
+TIME	93.219
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	98.108
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	98.104s	1020.09m
+SIM_START	scenario_3_and_4	2022-07-18 13:39:12
+TIME	99.598
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	105.375
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	105.372s	1091.39m
+TIME	183.287
+SIM_START	scenario_3_and_4	2022-07-18 13:53:58
+TIME	183.287
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	105.281
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	105.278s	1091.37m
+TIME	161.386
+SIM_START	scenario_3_and_4	2022-07-18 14:05:06
+TIME	161.386
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	22.609
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000Connection closed... 
+SIM_END		scenario_3_and_4	22.605s	161.412m
+SIM_START	scenario_3_and_4	2022-07-18 14:05:37
+TIME	23.309
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	79.037
+		UDP_Client started on port 8051DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	79.033s	856.536m
+TIME	84.052
+SIM_START	scenario_3_and_4	2022-07-18 14:07:47
+TIME	84.052
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	36.380
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	36.376s	266.357m
+TIME	41.565
+SIM_START	scenario_3_and_4	2022-07-18 14:09:17
+TIME	41.565
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	39.407
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	39.403s	312.607m
+TIME	109.310
+SIM_START	scenario_3_and_4	2022-07-18 14:21:36
+TIME	109.310
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	105.369
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	105.365s	1091.39m
+TIME	109.717
+SIM_START	scenario_3_and_4	2022-07-18 14:24:07
+TIME	109.717
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	14.402
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_3_and_4	14.398s	120.823m
+SIM_START	scenario_3_and_4	2022-07-18 14:24:36
+TIME	15.822
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	112.812
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	112.808s	1091.33m
+TIME	130.489
+SIM_START	scenario_3_and_4	2022-07-18 14:29:27
+TIME	130.489
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	112.553
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	112.55s	1091.35m
+TIME	127.641
+SIM_START	scenario_3_and_4	2022-07-18 14:33:52
+TIME	127.641
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	112.540
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	112.537s	1091.33m
+TIME	131.462
+SIM_START	scenario_3_and_4	2022-07-18 14:38:55
+TIME	131.462
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	106.889
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	106.886s	1091.39m
+TIME	109.902
+SIM_START	scenario_3_and_4	2022-07-18 14:41:13
+TIME	109.902
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	97.282
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_3_and_4	97.278s	1070.11m
+TIME	119.451
+SIM_START	scenario_3_and_4	2022-07-18 14:46:33
+TIME	119.451
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	106.143
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	106.14s	1070.09m
+TIME	117.363
+SIM_START	scenario_3_and_4	2022-07-18 14:50:13
+TIME	117.363
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	105.827
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	105.824s	1070.08m
+TIME	128.037
+SIM_START	scenario_3_and_4	2022-07-18 14:55:42
+TIME	128.037
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	37.920
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	37.916s	292.005m
+SIM_START	scenario_3_and_4	2022-07-18 14:56:35
+TIME	39.256
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	117.841
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	117.837s	1091.64m
+TIME	156.151
+SIM_START	scenario_3_and_4	2022-07-18 15:04:57
+TIME	156.151
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	109.556
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	109.553s	1091.39m
+TIME	125.251
+SIM_START	scenario_1_and_2_extended	2022-07-18 15:09:25
+TIME	125.251
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	78.896
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_1_and_2_extended	78.892s	307.766m
+TIME	81.456
+SIM_START	scenario_1_and_2_extended	2022-07-18 15:11:10
+TIME	81.456
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	9.353
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2_extended	9.349s	36.102m
+TIME	12.918
+SIM_START	scenario_1_and_2_extended	2022-07-18 15:11:56
+TIME	12.918
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	177.042
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 4000.000000Connection closed... 
+SIM_END		scenario_1_and_2_extended	177.038s	966.786m
+TIME	188.302
+SIM_START	scenario_1_and_2_extended	2022-07-18 15:16:47
+TIME	188.302
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	72.068
+		UDP_Client started on port 8051DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 1000.000000DM.Brake, 1.000000, 3000.000000DM.Brake, 0.000000, 1000.000000Connection closed... 
+SIM_END		scenario_1_and_2_extended	72.064s	511.939m
+TIME	74.741
+SIM_START	scenario_1_and_2_extended	2022-07-18 15:18:26
+TIME	74.741
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	72.462
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 1000.000000Connection closed... 
+SIM_END		scenario_1_and_2_extended	72.458s	494.524m
+SIM_START	scenario_1_and_2_extended	2022-07-18 15:19:55
+TIME	74.018
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	101.056
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_1_and_2_extended	101.053s	733.087m
+TIME	107.828
+SIM_START	scenario_1_and_2_extended	2022-07-18 15:22:45
+TIME	107.828
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	115.421
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_1_and_2_extended	115.417s	883.069m
+TIME	368.855
+SIM_START	scenario_3_and_4	2022-07-18 16:06:56
+TIME	368.855
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	108.980
+		UDP_Client started on port 8051DM.Brake, 1.000000, 5000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_3_and_4	108.977s	1091.39m
+TIME	115.556
+SIM_START	scenario_1_and_2_extended	2022-07-18 16:09:52
+TIME	115.556
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	115.410
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_1_and_2_extended	115.407s	883.068m
+TIME	808.346
+SHUTDOWN	CarMaker quick shutdown initiated
+

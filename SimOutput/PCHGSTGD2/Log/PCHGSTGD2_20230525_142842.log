@@ -1,0 +1,587 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2023-05-25 14:28:42
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	14:28:43
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:28:43
+TIME	0.022
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	1.364s	1.55628m
+TIME	13.805
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:30:50
+TIME	0.002
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:31:08
+TIME	10.373
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:31:27
+TIME	10.431
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	12.957
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:32:11
+TIME	12.957
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:32:27
+TIME	10.201
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	2.769
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	2.766s	8.70696m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:32:37
+TIME	3.311
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:32:57
+TIME	10.510
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	2.324
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	2.321s	5.79881m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:33:04
+TIME	2.731
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	18.854
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:34:47
+TIME	18.854
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	14.096
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:35:43
+TIME	14.096
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:36:00
+TIME	10.264
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	12.315
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:36:37
+TIME	12.315
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.741
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	7.242s	52.8358m
+TIME	12.928
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:37:43
+TIME	12.928
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	5.256
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	5.251s	33.0881m
+TIME	8.593
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:38:23
+TIME	8.593
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	5.434
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	5.429s	34.8328m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:38:47
+TIME	7.133
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	2.749
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	2.744s	8.54923m
+TIME	5.706
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:39:21
+TIME	5.706
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.656
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	15.825
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:40:33
+TIME	15.825
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:41:04
+TIME	11.622
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:41:33
+TIME	11.396
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:42:02
+TIME	11.472
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	7.448
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	7.443s	55.1427m
+TIME	9.529
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:42:31
+TIME	9.529
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:42:54
+TIME	10.785
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	17.527
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:44:24
+TIME	17.527
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.656
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	12.305
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:45:01
+TIME	12.305
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.656
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	22.805
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:47:24
+TIME	22.805
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	22.514
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:49:43
+TIME	22.514
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	11.728
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:50:15
+TIME	0.001
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	12.677
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:50:56
+TIME	12.677
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	11.883
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:51:30
+TIME	11.883
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:51:54
+TIME	10.979
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	12.002
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:52:28
+TIME	12.002
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	12.983
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:53:13
+TIME	12.983
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	12.812
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:53:55
+TIME	12.812
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	14.263
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:54:52
+TIME	14.263
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	13.312
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:55:40
+TIME	13.312
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	16.549
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:57:00
+TIME	16.549
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	15.267
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:58:07
+TIME	15.267
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	11.809
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:58:40
+TIME	11.809
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	14.018
+SIM_START	04Newalkar_CarMaker	2023-05-25 14:59:34
+TIME	14.018
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	13.603
+SIM_START	04Newalkar_CarMaker	2023-05-25 15:00:25
+TIME	13.603
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	12.059
+SIM_START	04Newalkar_CarMaker	2023-05-25 15:01:00
+TIME	12.059
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.654
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	12.847
+SIM_START	04Newalkar_CarMaker	2023-05-25 15:01:43
+TIME	12.847
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.656
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	36.298
+SIM_START	04Newalkar_CarMaker	2023-05-25 15:06:20
+TIME	36.298
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.656
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	20.081
+SIM_START	04Newalkar_CarMaker	2023-05-25 15:08:16
+TIME	20.081
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	11.906
+SIM_START	04Newalkar_CarMaker	2023-05-25 15:08:49
+TIME	11.906
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	9.655
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	51.498
+SIM_START	04Newalkar_CarMaker	2023-05-25 15:15:59
+TIME	51.498
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	14.476
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	21.394
+SIM_START	04Newalkar_CarMaker	2023-05-25 15:18:08
+TIME	21.394
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	17.819
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	19.945
+SIM_START	04Newalkar_CarMaker	2023-05-25 15:20:02
+TIME	19.945
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	04Newalkar_CarMaker
+
+TIME	17.500
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		04Newalkar_CarMaker	9.651s	83.3107m
+TIME	46.022
+SHUTDOWN	CarMaker quick shutdown initiated
+

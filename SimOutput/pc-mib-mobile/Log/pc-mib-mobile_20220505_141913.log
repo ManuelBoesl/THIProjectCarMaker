@@ -1,0 +1,8 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-05-05 14:19:14
+TIME	0.000
+ERROR		No entry 'IPAdress', file 'Data/Config/UDPConfig'
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

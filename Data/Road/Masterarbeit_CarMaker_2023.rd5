@@ -1,0 +1,131 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = IPGRoad 10.0
+FileCreator = CarMaker 10.2
+Description:
+	Converted OpenDRIVE File (Revision 1.4)
+	Original File: Data/Road/Masterarbeit_CarMaker_2023.xodr
+	Version: 1
+LibVersion = 10.2
+Country = DEU
+nLinks = 1
+nJunctions = 0
+nObjects = 110
+nRoutes = 2
+RoadNetworkLength = 527.412222715593
+BBox = -129.227955501764 55.6543477845353 -261.814278301248 265.317441887192 -11 11
+Route.0.Length = 527.412222715593
+Route.1.Length = 527.412222715593
+RST.Unit = kmh
+RST = 50 100 130 30 70 30 0 -1
+Movie = 0.2 1 0.01 0 0 1 1
+PathMode = -1
+Link.0.ID = 0
+Link.0.Node0 = 39.7999992370605 -248.989990234375 0 115.753854926417
+Link.0.Node1 = -112.90998460021 253.789945999435 0 103.591585481245
+Link.0.RST = Urban
+Link.0.Tag = odrRoadId:0
+Link.0.RL.ID = 1
+Link.0.Seg.0.ID = 5
+Link.0.Seg.0.Type = PointList
+Link.0.Seg.0.Param = -0.434505856441966 0.900669007303812 1 0 0 0 0 0
+Link.0.Seg.0.PointList:
+	6 -1 0.495293222887987 -167.516909898849
+Link.0.Seg.1.ID = 7
+Link.0.Seg.1.Type = TurnRight
+Link.0.Seg.1.Param = 500 12.162269445172 0 0 0 0 0 0
+Link.0.Seg.2.ID = 8
+Link.0.Seg.2.Type = Straight
+Link.0.Seg.2.Param = 330.817996212446 0 0 0 0 0 0 0
+Link.0.LateralCenterLineOffset.ID = 11
+Link.0.LateralCenterLineOffset:
+	12 -1 0 0 4 0 0 0 0
+	13 -1 0 1 0 0 0 -999 -999
+Link.0.LaneSection.0.ID = 14
+Link.0.LaneSection.0.Start = 0
+Link.0.LaneSection.0.LaneL.0.ID = 16
+Link.0.LaneSection.0.LaneL.0 = 0 3.5 3.5 0 0 0 0
+Link.0.LaneSection.0.LaneL.0.ARP = 17 18 19 20 21 22
+Link.0.LaneSection.0.LaneL.0.Width:
+	26 -1 0 0 4 3.5 0 0 0
+Link.0.LaneSection.0.LaneL.1.ID = 27
+Link.0.LaneSection.0.LaneL.1 = 0 0 0 20 0 0 0
+Link.0.LaneSection.0.LaneL.1.ARP = 28 29 30 31 32 33
+Link.0.LaneSection.0.LaneL.1.Width:
+	36 -1 0 0 4 0 0 0 0
+Link.0.LaneSection.0.LaneL.2.ID = 37
+Link.0.LaneSection.0.LaneL.2 = 0 0 0 20 0 0 0
+Link.0.LaneSection.0.LaneL.2.ARP = 38 39 40 41 42 43
+Link.0.LaneSection.0.LaneL.2.Width:
+	46 -1 0 0 4 0 0 0 0
+Link.0.LaneSection.0.LaneL.3.ID = 48
+Link.0.LaneSection.0.LaneL.3 = 0 2 2 11 0 0 0
+Link.0.LaneSection.0.LaneL.3.Material.0 = Textures/Ground/Roadside_Sidewalk.png 0 0 0 0 1 1 1 1 0 0 0
+Link.0.LaneSection.0.LaneL.3.ARP = 49 50 51 52 53 54
+Link.0.LaneSection.0.LaneL.3.Width:
+	57 -1 0 0 4 2 0 0 0
+Link.0.LaneSection.0.LaneL.4.ID = 99
+Link.0.LaneSection.0.LaneL.4 = 0 1 1 5 0 0 0
+Link.0.LaneSection.0.LaneR.0.ID = 58
+Link.0.LaneSection.0.LaneR.0 = 0 3.5 3.5 0 0 0 0
+Link.0.LaneSection.0.LaneR.0.ARP = 59 60 61 62 63 64
+Link.0.LaneSection.0.LaneR.0.Width:
+	67 -1 0 0 4 3.5 0 0 0
+Link.0.LaneSection.0.LaneR.1.ID = 68
+Link.0.LaneSection.0.LaneR.1 = 0 0 0 20 0 0 0
+Link.0.LaneSection.0.LaneR.1.Material.0 = Textures/Ground/Roadside_Sidewalk.png 0 0 0 0 1 1 1 1 0 0 0
+Link.0.LaneSection.0.LaneR.1.ARP = 69 70 71 72 73 74
+Link.0.LaneSection.0.LaneR.1.Width:
+	77 -1 0 0 4 0 0 0 0
+Link.0.LaneSection.0.LaneR.2.ID = 78
+Link.0.LaneSection.0.LaneR.2 = 0 0 0 20 0 0 0
+Link.0.LaneSection.0.LaneR.2.Material.0 = Textures/Ground/Roadside_Sidewalk.png 0 0 0 0 1 1 1 1 0 0 0
+Link.0.LaneSection.0.LaneR.2.ARP = 79 80 81 82 83 84
+Link.0.LaneSection.0.LaneR.2.Width:
+	87 -1 0 0 4 0 0 0 0
+Link.0.LaneSection.0.LaneR.3.ID = 89
+Link.0.LaneSection.0.LaneR.3 = 0 2 2 11 0 0 0
+Link.0.LaneSection.0.LaneR.3.Material.0 = Textures/Ground/Roadside_Sidewalk.png 0 0 0 0 1 1 1 1 0 0 0
+Link.0.LaneSection.0.LaneR.3.ARP = 90 91 92 93 94 95
+Link.0.LaneSection.0.LaneR.3.Width:
+	98 -1 0 0 4 2 0 0 0
+Link.0.LaneSection.0.LaneR.4.ID = 100
+Link.0.LaneSection.0.LaneR.4 = 0 1 1 5 0 0 0
+Link.0.ElevationProfile.ID = 2
+Link.0.ElevationProfile.Params = 0 0
+Link.0.ElevationProfile:
+	101 -1 0 0 0 0 0
+	102 -1 0 1 0 0 0
+LanePath.0 = 23 16 2 10 0.1 0.1
+LanePath.1 = 34 27 -1 10 0.1 0.1
+LanePath.2 = 44 37 2.75 1 0 0
+LanePath.3 = 55 48 2 10 0.1 0.1
+LanePath.4 = 65 58 2 10 0.1 0.1
+LanePath.5 = 75 68 -1 10 0.1 0.1
+LanePath.6 = 85 78 2.75 1 0 0
+LanePath.7 = 96 89 2 10 0.1 0.1
+Route.0.ID = 106
+Route.0.Name = Route_0
+Route.0.DrvPath.ID = 107
+Route.0.DrvPath:
+	65
+Route.1.ID = 108
+Route.1.Name = Route_1
+Route.1.DrvPath.ID = 109
+Route.1.DrvPath:
+	23
+RL.1.RoadMarking.0.ID = 15 14
+RL.1.RoadMarking.0 = 0 0 0 1 0 0 0.150000005960464 0 2 0 0 2 4 1 1 0 ""
+RL.1.RoadMarking.0.Material.0 = white 0 0 0 0 0 0 0 0 0 0 0
+RL.1.RoadMarking.1.ID = 47 37
+RL.1.RoadMarking.1 = 0 0 0 1 0 1 0.1524 0 1 0 0 2 4 1 1 0 ""
+RL.1.RoadMarking.1.Material.0 = white 0 0 0 0 0 0 0 0 0 0 0
+RL.1.RoadMarking.2.ID = 88 78
+RL.1.RoadMarking.2 = 0 0 0 1 0 -1 0.1524 0 1 0 0 2 4 1 1 0 ""
+RL.1.RoadMarking.2.Material.0 = white 0 0 0 0 0 0 0 0 0 0 0
+RL.1.Marker.0.ID = 9 1
+RL.1.Marker.0.Type = DrvSpeed
+RL.1.Marker.0.Param = 0 0 1 40 mph
+RL.1.Marker.1.ID = 10 1
+RL.1.Marker.1.Type = DrvSpeed
+RL.1.Marker.1.Param = 0 1 -1 40 mph
+MaxUsedObjId = 109

@@ -1,0 +1,289 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-06-15 13:04:13
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	13:04:14
+SIM_START	scenario 1	2022-06-15 13:04:14
+TIME	0.051
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.014
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655291054
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	91.438
+		Connection closed... 
+SIM_END		scenario 1	91.434s	880.205m
+SIM_START	scenario 1	2022-06-15 13:06:02
+TIME	92.944
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.013
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655291162
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	11.912
+		Connection closed... 
+SIM_END		scenario 1	11.908s	38.8523m
+TIME	17.891
+SIM_START	scenario 1	2022-06-15 13:07:14
+TIME	17.891
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.010
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655291234
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	21.936
+		Connection closed... 
+SIM_END		scenario 1	21.932s	229.642m
+TIME	62.030
+SIM_START	scenario 1	2022-06-15 13:14:19
+TIME	62.030
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655291659
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	22.887
+		Connection closed... 
+SIM_END		scenario 1	22.883s	246.434m
+TIME	329.384
+SIM_START	scenario 1	2022-06-15 14:05:49
+TIME	329.384
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.013
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655294749
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	54.518
+		Connection closed... 
+SIM_END		scenario 1	54.514s	550.831m
+TIME	68.535
+SIM_START	scenario 1	2022-06-15 14:09:05
+TIME	68.535
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655294945
+TIME	0.000
+SIMULATE	scenario 1
+
+		Connection closed... 
+SIM_END		scenario 1	0.413s	5.6419e-006m
+SIM_START	scenario 1	2022-06-15 14:09:08
+TIME	0.673
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655294948
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	20.017
+		Connection closed... 
+SIM_END		scenario 1	20.013s	184.827m
+TIME	22.841
+SIM_START	scenario 1	2022-06-15 14:09:58
+TIME	22.841
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.013
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655294998
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	37.335
+		Connection closed... 
+SIM_END		scenario 1	37.331s	270.936m
+TIME	43.941
+SIM_START	scenario 1	2022-06-15 14:11:42
+TIME	43.941
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655295102
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	18.154
+		Connection closed... 
+SIM_END		scenario 1	18.15s	51.6873m
+SIM_START	scenario 1	2022-06-15 14:12:03
+TIME	18.409
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655295123
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	5.202
+		Connection closed... 
+SIM_END		scenario 1	5.198s	3.57153e-006m
+TIME	8.102
+SIM_START	scenario 1	2022-06-15 14:12:38
+TIME	8.102
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655295159
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	37.959
+		Connection closed... 
+SIM_END		scenario 1	37.955s	215.98m
+TIME	40.835
+SIM_START	scenario 1	2022-06-15 14:13:46
+TIME	40.835
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655295226
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	23.701
+		Connection closed... 
+SIM_END		scenario 1	23.698s	75.434m
+SIM_START	scenario 1	2022-06-15 14:14:11
+TIME	23.778
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655295251
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	51.386
+		Connection closed... 
+SIM_END		scenario 1	51.382s	241.565m
+TIME	172.594
+SIM_START	scenario 1	2022-06-15 14:35:16
+TIME	172.594
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.013
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655296516
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	64.647
+		Connection closed... 
+SIM_END		scenario 1	64.643s	317.282m
+TIME	151.704
+SIM_START	scenario 1	2022-06-15 14:50:54
+TIME	151.704
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.013
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655297454
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	500.003
+		Connection closed... 
+SIM_END		scenario 1	500s	505.09m
+TIME	592.564
+SIM_START	scenario 1	2022-06-15 15:14:40
+TIME	592.564
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.016
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655298880
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	132.663
+		Connection closed... 
+SIM_END		scenario 1	132.659s	505.088m
+SIM_START	scenario 1	2022-06-15 15:17:14
+TIME	134.650
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.013
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1655299034
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	500.004
+		Connection closed... 
+SIM_END		scenario 1	500s	505.09m
+TIME	1088.087
+SHUTDOWN	CarMaker quick shutdown initiated
+

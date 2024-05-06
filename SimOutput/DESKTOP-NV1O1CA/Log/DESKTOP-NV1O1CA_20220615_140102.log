@@ -1,0 +1,9 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+ERROR		Unable to obtain CarMaker license: license server timeout (-11)
+		System: desktop-nv1o1ca sysid 306334597 ether 54:b2:03:fd:78:d1
+		License file: C:\IPG\etc\Licenses.dat
+		
+ERROR		FATAL ERROR - Application stopped
+		Eliminate the error and restart the application

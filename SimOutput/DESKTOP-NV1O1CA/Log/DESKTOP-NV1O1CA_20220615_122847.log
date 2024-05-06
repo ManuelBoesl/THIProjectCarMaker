@@ -1,0 +1,65 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-06-15 12:28:48
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	12:28:48
+SIM_START	scenario 1	2022-06-15 12:28:49
+TIME	0.001
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	94.450
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	94.446s	376.497m
+TIME	97.102
+SIM_START	scenario_3	2022-06-15 12:30:51
+TIME	0.013
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_3	0s	376.497m
+TIME	3.974
+SIM_START	scenario_3	2022-06-15 12:31:31
+TIME	0.011
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051No route selected for ego vehicle
+		Environment Generic: model disabled (works only on route)
+ERROR		DrivMan Startposition: failed to get start position on road link 0
+		Connection closed... 
+SIM_ABORT	scenario_3	0s	376.497m
+TIME	2.918
+SIM_START	scenario_3	2022-06-15 12:32:00
+TIME	0.013
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051No route selected for ego vehicle
+		Environment Generic: model disabled (works only on route)
+ERROR		DrivMan Startposition: failed to get start position on road link 0
+		Connection closed... 
+SIM_ABORT	scenario_3	0s	376.497m
+TIME	2.128
+SIM_START	scenario_3	2022-06-15 12:32:21
+TIME	0.011
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_3	0s	376.497m
+TIME	197.385
+SHUTDOWN	CarMaker quick shutdown initiated
+

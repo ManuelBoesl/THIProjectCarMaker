@@ -1,0 +1,95 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2023-04-27 15:39:02
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	15:39:03
+SIM_START	Masterarbeit_CarMaker	2023-04-27 15:39:03
+TIME	0.022
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker
+
+TIME	5.081
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker	5.078s	32.5511m
+TIME	29.867
+SIM_START	Masterarbeit_CarMaker_2023	2023-04-27 15:43:17
+TIME	29.867
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker_2023
+
+TIME	30.465
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker_2023	26.632s	322.462m
+TIME	39.175
+SIM_START	Masterarbeit_CarMaker_2023	2023-04-27 15:45:51
+TIME	39.175
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker_2023
+
+TIME	32.318
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker_2023	27.181s	329.992m
+SIM_START	Masterarbeit_CarMaker_2023	2023-04-27 15:47:29
+TIME	33.155
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker_2023
+
+TIME	4.087
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker_2023	4.084s	20.7738m
+SIM_START	Masterarbeit_CarMaker_2023	2023-04-27 15:47:52
+TIME	4.807
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker_2023
+
+TIME	27.184
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker_2023	27.181s	329.992m
+TIME	34.351
+SIM_START	Masterarbeit_CarMaker_2023	2023-04-27 15:49:32
+TIME	34.351
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker_2023
+
+TIME	27.185
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker_2023	27.181s	329.992m
+TIME	41.704
+SIM_START	Masterarbeit_CarMaker_2023	2023-04-27 15:52:26
+TIME	41.704
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker_2023
+
+TIME	27.185
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker_2023	27.181s	329.992m
+TIME	80.981
+SHUTDOWN	CarMaker quick shutdown initiated
+

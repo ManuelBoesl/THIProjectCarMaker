@@ -1,0 +1,70 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-06-09 16:08:37
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	16:08:37
+SIM_START	scenario 1	2022-06-09 16:08:39
+TIME	0.107
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1654783719
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	179.627
+		Connection closed... 
+SIM_END		scenario 1	179.623s	986.541m
+SIM_START	scenario 1	2022-06-09 16:11:40
+TIME	179.756
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1654783900
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	3.829
+		Connection closed... 
+SIM_END		scenario 1	3.825s	0.00168135m
+TIME	42.357
+SIM_START	scenario 1	2022-06-09 16:18:10
+TIME	42.357
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1654784290
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	3.147
+		Connection closed... 
+SIM_END		scenario 1	3.143s	0.00166191m
+TIME	111.557
+SIM_START	scenario 1	2022-06-09 16:36:18
+TIME	111.557
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1654785378
+TIME	0.000
+SIMULATE	scenario 1
+
+		Connection closed... 
+SIM_END		scenario 1	0.578s	2.54308e-005m
+SHUTDOWN	CarMaker quick shutdown initiated
+

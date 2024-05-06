@@ -1,0 +1,25 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2023-03-09 10:34:44
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	10:34:45
+SIM_START	unknown	2023-03-09 10:34:45
+TIME	0.027
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	unknown
+
+TIME	47.813
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		unknown	47.809s	507.232m
+TIME	64.841
+SHUTDOWN	CarMaker quick shutdown initiated
+

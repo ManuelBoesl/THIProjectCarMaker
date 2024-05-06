@@ -1,0 +1,18 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-DVA 4.0
+nDialogQu = 10
+Qu.0.Name = DM.Brake
+Qu.0.Mode = - value
+Qu.0.Count = 1000
+Qu.0.Value = 1
+Qu.0.Unit = -
+Qu.1.Name = DM.GearNo
+Qu.1.Mode = - value
+Qu.1.Count = 1
+Qu.1.Unit = -
+Qu.2.Name = DM.Gas
+Qu.2.Mode = - value
+Qu.2.Count = 1
+Qu.2.Value = 1
+Qu.2.Unit = -
+nQu = 3

@@ -1,0 +1,129 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2022-07-13 15:25:46
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	15:25:47
+SIM_START	scenario_1_and_2	2022-07-13 15:25:48
+TIME	0.104
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.014
+ERROR		IPGDriver: Calculate road s= 403.876m (2). (id=319)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_1_and_2	0s	0m
+TIME	2.965
+SIM_START	scenario_1_and_2	2022-07-13 15:26:17
+TIME	2.965
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.013
+ERROR		IPGDriver: Calculate road s= 403.876m (2). (id=319)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_1_and_2	0s	0m
+TIME	40.784
+SIM_START	scenario_1_and_2	2022-07-13 15:33:05
+TIME	40.784
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.013
+		UDP_Client started on port 8051No route selected for ego vehicle
+		Environment Generic: model disabled (works only on route)
+		Road Sensor: evaluation of route/path disabled
+		Maneuver using IPGDriver disabled (works only on route)
+		DrivMan road markers disabled (works only on route)
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	48.731
+		Connection closed... 
+SIM_END		scenario_1_and_2	48.727s	22.1797m
+TIME	60.093
+SIM_START	scenario_1_and_2	2022-07-13 15:35:48
+TIME	60.093
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	80.554
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2	80.55s	497.466m
+TIME	101.044
+SIM_START	scenario_1_and_2	2022-07-13 15:40:35
+TIME	101.044
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	60.855
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2	60.852s	378.137m
+TIME	350.210
+SIM_START	scenario_1_and_2	2022-07-13 16:29:52
+TIME	350.210
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	80.553
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2	80.55s	503.066m
+TIME	97.550
+SIM_START	scenario_1_and_2	2022-07-13 16:34:04
+TIME	97.550
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051No route selected for ego vehicle
+		Environment Generic: model disabled (works only on route)
+		Road Sensor: evaluation of route/path disabled
+		Maneuver using IPGDriver disabled (works only on route)
+		DrivMan road markers disabled (works only on route)
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	2.865
+		Connection closed... 
+SIM_END		scenario_1_and_2	2.861s	6.57336m
+TIME	0.001
+SIM_START	scenario_1_and_2	2022-07-13 16:34:30
+TIME	0.001
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	17.075
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2	17.071s	68.3287m
+TIME	32.537
+SIM_START	scenario_1_and_2	2022-07-13 16:37:23
+TIME	32.537
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	36.549
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2	36.546s	149.467m
+TIME	74.318
+SHUTDOWN	CarMaker quick shutdown initiated
+

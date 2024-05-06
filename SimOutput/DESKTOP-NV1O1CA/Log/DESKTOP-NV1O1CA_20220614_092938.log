@@ -1,0 +1,567 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-06-14 09:29:39
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	09:29:39
+TIME	31.469
+SIM_START	scenario 1	2022-06-14 09:34:54
+TIME	31.469
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.345
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+TIME	71.367
+SIM_START	scenario 1	2022-06-14 09:38:14
+TIME	71.367
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	54.442
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	54.438s	413.375m
+SIM_START	scenario 1	2022-06-14 09:39:11
+TIME	54.646
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	6.697
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	6.693s	31.1558m
+TIME	9.923
+SIM_START	scenario 1	2022-06-14 09:39:51
+TIME	9.923
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	20.458
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	20.454s	177.735m
+SIM_START	scenario_2	2022-06-14 09:40:27
+TIME	21.968
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_2
+
+TIME	12.170
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_2	12.167s	75.0371m
+TIME	15.665
+SIM_START	scenario_2	2022-06-14 09:41:15
+TIME	15.665
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_2
+
+TIME	12.762
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_2	12.757s	80.7662m
+SIM_START	scenario 1	2022-06-14 09:41:35
+TIME	13.396
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	27.599
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	27.595s	256.346m
+SIM_START	scenario 1	2022-06-14 09:42:05
+TIME	27.700
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	23.957
+ERROR		Vehicle leaves road at about x=60.4171, y=94.0192 TireNo=0
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario 1	23.957s	169.58m
+TIME	26.600
+SIM_START	scenario 1	2022-06-14 09:42:56
+TIME	26.600
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	23.957
+ERROR		Vehicle leaves road at about x=60.4171, y=94.0192 TireNo=0
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario 1	23.957s	169.58m
+SIM_START	scenario 1	2022-06-14 09:43:40
+TIME	25.910
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.345
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+TIME	59.413
+SIM_START	scenario 1	2022-06-14 09:44:59
+TIME	59.413
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	15.871
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	15.867s	126.664m
+SIM_START	scenario 1	2022-06-14 09:45:17
+TIME	15.980
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.345
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+SIM_START	scenario 1	2022-06-14 09:46:35
+TIME	59.327
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	50.003
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	50s	256.911m
+SIM_START	scenario 1	2022-06-14 09:47:42
+TIME	51.581
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	38.103
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	38.099s	190.789m
+SIM_START	scenario 1	2022-06-14 09:48:22
+TIME	38.184
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	4.493
+ERROR		Vehicle leaves road at about x=147.138, y=2.64533 TireNo=0
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario 1	4.493s	11.1562m
+TIME	30.372
+SIM_START	scenario 1	2022-06-14 09:52:46
+TIME	0.021
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	50.003
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	50s	536.106m
+TIME	52.603
+SIM_START	scenario 1	2022-06-14 09:54:03
+TIME	52.603
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	18.071
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	18.067s	6.45935e-006m
+SIM_START	scenario 1	2022-06-14 09:54:23
+TIME	18.186
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	14.651
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	14.647s	113.313m
+SIM_START	scenario 1	2022-06-14 09:54:47
+TIME	0.020
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	17.901
+ERROR		IPGDriver: licensing problem (h): license lost (-5) (id=488)
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 17.900000, ErrInd = 488). (id=200)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario 1	17.901s	149.231m
+TIME	20.003
+SIM_START	scenario 1	2022-06-14 09:55:31
+TIME	0.020
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	50.003
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	50s	536.106m
+TIME	60.798
+SIM_START	scenario 1	2022-06-14 09:58:14
+TIME	60.798
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	50.004
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	50s	536.106m
+TIME	85.724
+SIM_START	scenario 1	2022-06-14 10:05:02
+TIME	85.724
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	50.009
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	50s	536.106m
+SIM_START	scenario 1	2022-06-14 10:05:11
+TIME	50.557
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	50.009
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	50s	536.106m
+SIM_START	scenario 1	2022-06-14 10:05:20
+TIME	50.503
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	29.802
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	29.798s	280.966m
+SIM_START	scenario 1	2022-06-14 10:05:52
+TIME	29.941
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	50.003
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	50s	536.106m
+SIM_START	scenario 1	2022-06-14 10:06:58
+TIME	0.025
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	50.003
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	50s	536.106m
+SIM_START	scenario 1	2022-06-14 10:07:58
+TIME	50.835
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	50.003
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	50s	536.106m
+SIM_START	scenario 1	2022-06-14 10:08:59
+TIME	51.025
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	50.004
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	50s	376.338m
+SIM_START	scenario 1	2022-06-14 10:10:03
+TIME	51.302
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	84.193
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	84.189s	661.303m
+TIME	93.434
+SIM_START	scenario 1	2022-06-14 10:13:10
+TIME	93.434
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	84.192
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	84.189s	661.303m
+TIME	88.715
+SIM_START	scenario 1	2022-06-14 10:15:24
+TIME	88.715
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	84.192
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	84.189s	661.303m
+TIME	89.667
+SIM_START	scenario 1	2022-06-14 10:17:47
+TIME	89.667
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	100.003
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	100s	534.71m
+SIM_START	scenario 1	2022-06-14 10:19:41
+TIME	101.260
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	100.003
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	100s	534.71m
+TIME	365.357
+SIM_START	scenario 1	2022-06-14 11:05:36
+TIME	0.020
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	100.004
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	100s	480.399m
+TIME	107.299
+SIM_START	scenario 1	2022-06-14 11:08:30
+TIME	0.304
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	0s	0m
+SIM_START	scenario 1	2022-06-14 11:08:35
+TIME	1.128
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	100.003
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	100s	399.638m
+TIME	102.278
+SIM_START	scenario 1	2022-06-14 11:10:39
+TIME	102.278
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	130.085
+ERROR		IPGDriver: licensing problem (h): license lost (-5) (id=488)
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 130.084000, ErrInd = 488). (id=200)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario 1	130.085s	524.993m
+TIME	146.834
+SIM_START	scenario 1	2022-06-14 11:15:42
+TIME	0.020
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	130.085
+ERROR		IPGDriver: licensing problem (h): license lost (-5) (id=488)
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 130.084000, ErrInd = 488). (id=200)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario 1	130.085s	524.993m
+TIME	158.046
+SIM_START	scenario 1	2022-06-14 11:22:44
+TIME	0.025
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	60.177
+ERROR		IPGDriver: licensing problem (h): license lost (-5) (id=488)
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 60.176000, ErrInd = 488). (id=200)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario 1	60.177s	233.683m
+TIME	75.204
+SIM_START	scenario 1	2022-06-14 11:26:20
+TIME	0.056
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	135.751
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	135.747s	548.585m
+SIM_START	scenario 1	2022-06-14 11:28:46
+TIME	0.001
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	0s	0m
+SIM_START	scenario 1	2022-06-14 11:28:48
+TIME	0.809
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	116.833
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	116.829s	469.76m
+TIME	118.881
+SIM_START	scenario 1	2022-06-14 11:31:07
+TIME	20.437
+WARNING		TestRun start aborted because of state (SimCore.State=End)
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+WARNING		Cannot start simulation, must be in state 'Idle' (currently 'End')
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	0s	0m
+SIM_START	scenario 1	2022-06-14 11:31:44
+TIME	21.601
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	116.804
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	116.8s	469.639m
+SIM_START	scenario 1	2022-06-14 11:33:47
+TIME	117.312
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	116.803
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	116.8s	469.639m
+TIME	157.704
+SIM_START	scenario_2	2022-06-14 11:42:34
+TIME	0.049
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_2
+
+TIME	24.220
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_2	24.216s	164.235m
+TIME	30.937
+SIM_START	Scenario_4	2022-06-14 11:44:06
+TIME	0.022
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=18544, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	Scenario_4	0s	164.235m
+SIM_START	Scenario_4	2022-06-14 11:44:14
+TIME	0.773
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.050
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=18544, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	Scenario_4	0s	164.235m
+TIME	355.886
+SIM_START	scenario_3	2022-06-14 12:43:24
+TIME	1.379
+ERROR		CarMaker license: license lost (-5)
+		Connection closed...Connection closed... 
+SIM_ABORT	scenario_3	0s	164.235m
+		Connection closed...Connection to GUI lost, initiate shutdown
+SHUTDOWN	Automatic CarMaker shutdown initiated
+

@@ -1,0 +1,68 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2022-07-04 09:32:31
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	09:32:32
+SIM_START	scenario 1	2022-07-04 09:32:34
+TIME	0.281
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+WARNING		IPGDriver: Road points 698 699 700 have contrary directions, will be exchanged.   Pi-2=(129.316620; -200.079330)  Pi-1=(131.963989; -200.217590)  Pi=(129.350555; -200.668793) alpha=167.215021 (id=200)
+		Current random seed value = 1656919954
+TIME	0.000
+SIMULATE	scenario 1
+
+		Connection closed... 
+SIM_END		scenario 1	0.798s	4.78853e-005m
+SIM_START	scenario 1	2022-07-04 09:32:48
+TIME	1.948
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.013
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+WARNING		IPGDriver: Road points 698 699 700 have contrary directions, will be exchanged.   Pi-2=(129.316620; -200.079330)  Pi-1=(131.963989; -200.217590)  Pi=(129.350555; -200.668793) alpha=167.215021 (id=200)
+		Current random seed value = 1656919968
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	5.354
+		Connection closed... 
+SIM_END		scenario 1	5.35s	16.2331m
+TIME	17.208
+SIM_START	scenario 1	2022-07-04 09:34:52
+TIME	17.208
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.2.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.3.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+WARNING		IPGDriver: Road points 698 699 700 have contrary directions, will be exchanged.   Pi-2=(129.316620; -200.079330)  Pi-1=(131.963989; -200.217590)  Pi=(129.350555; -200.668793) alpha=167.215021 (id=200)
+		Current random seed value = 1656920092
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	4.036
+		Connection closed... 
+SIM_END		scenario 1	4.032s	7.18104m
+TIME	15.159
+SHUTDOWN	CarMaker quick shutdown initiated
+

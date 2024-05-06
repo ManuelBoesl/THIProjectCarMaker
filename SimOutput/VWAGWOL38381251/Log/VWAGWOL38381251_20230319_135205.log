@@ -1,0 +1,73 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2023-03-19 13:52:05
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	13:52:05
+SIM_START	Masterarbeit_CarMaker	2023-03-19 13:52:08
+TIME	0.003
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker
+
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker	0.997s	0.656937m
+TIME	2.621
+SIM_START	Masterarbeit_CarMaker_2023	2023-03-19 13:52:26
+TIME	2.621
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker_2023
+
+TIME	27.267
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker_2023	27.264s	329.985m
+TIME	65.378
+SIM_START	Masterarbeit_CarMaker_2023	2023-03-19 13:59:15
+TIME	0.008
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		VehicleControl GenLongCtrl: no ObjectSensor found with the name 'FrontRadar'
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	Masterarbeit_CarMaker_2023	0s	329.985m
+TIME	4.956
+SIM_START	Masterarbeit_CarMaker_2023	2023-03-19 14:00:05
+TIME	4.956
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.041
+ERROR		VehicleControl GenLongCtrl: no ObjectSensor found with the name 'Camera'
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	Masterarbeit_CarMaker_2023	0s	0m
+SIM_START	Masterarbeit_CarMaker_2023	2023-03-19 14:00:24
+TIME	1.903
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+ERROR		VehicleControl GenLongCtrl: no ObjectSensor found with the name 'Camera - CA00'
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	Masterarbeit_CarMaker_2023	0s	0m
+TIME	3.321
+SIM_START	Masterarbeit_CarMaker_2023	2023-03-19 14:00:57
+TIME	0.002
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		VehicleControl GenLongCtrl: no ObjectSensor found with the name 'FrontRadar'
+		UDP_Client started on port 8051Current random seed value = 1679230857
+		Connection closed... 
+SIM_ABORT	Masterarbeit_CarMaker_2023	0s	0m
+SHUTDOWN	CarMaker quick shutdown initiated
+

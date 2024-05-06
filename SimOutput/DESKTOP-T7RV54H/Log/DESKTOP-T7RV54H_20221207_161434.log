@@ -1,0 +1,96 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2022-12-07 16:14:34
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	16:14:35
+SIM_START	scenario_1_and_2_extended	2022-12-07 16:14:37
+TIME	0.250
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	67.593
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2_extended	67.589s	476.252m
+TIME	82.672
+SIM_START	scenario_1_and_2_extended	2022-12-07 16:18:16
+TIME	82.672
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	166.670
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2_extended	166.666s	1255.1m
+SIM_START	scenario_1_and_2_extended	2022-12-07 16:21:15
+TIME	167.727
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	8.989
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2_extended	8.985s	62.2641m
+TIME	31.346
+SIM_START	scenario_1_and_2_extended	2022-12-07 16:25:08
+TIME	31.346
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	166.670
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2_extended	166.666s	1255.1m
+TIME	183.394
+SIM_START	scenario_1_and_2_extended	2022-12-07 16:30:43
+TIME	183.394
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	181.999
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 3000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 4000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_1_and_2_extended	181.995s	1255.1m
+TIME	184.221
+SIM_START	scenario_1_and_2_extended	2022-12-07 16:34:08
+TIME	184.221
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	171.021
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_1_and_2_extended	171.018s	1255.09m
+TIME	178.107
+SIM_START	scenario_1_and_2_extended	2022-12-07 16:38:11
+TIME	178.107
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2_extended
+
+TIME	182.287
+		UDP_Client started on port 8051DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 1000.000000DM.Brake, 0.000000, 0.000000DM.Brake, 1.000000, 4000.000000DM.Brake, 0.000000, 0.000000Connection closed... 
+SIM_END		scenario_1_and_2_extended	182.284s	1255.09m
+TIME	300.741
+SHUTDOWN	CarMaker quick shutdown initiated
+

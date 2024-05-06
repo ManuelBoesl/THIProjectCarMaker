@@ -1,0 +1,137 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-06-14 15:03:50
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	15:03:50
+SIM_START	scenario_3	2022-06-14 15:03:51
+TIME	0.010
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=18544, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_3	0s	0m
+TIME	28.343
+SIM_START	scenario_3	2022-06-14 15:08:35
+TIME	0.016
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_3	0s	0m
+TIME	66.375
+SIM_START	scenario_3	2022-06-14 15:19:38
+TIME	0.016
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_3	0s	0m
+TIME	8.017
+SIM_START	scenario_3	2022-06-14 15:20:58
+TIME	0.016
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_3	0s	0m
+TIME	19.403
+SIM_START	scenario_3	2022-06-14 15:24:12
+TIME	0.019
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_3	0s	0m
+TIME	2.589
+SIM_START	scenario_3	2022-06-14 15:24:38
+TIME	0.009
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_3	0s	0m
+TIME	17.146
+SIM_START	scenario 1	2022-06-14 15:27:30
+TIME	17.146
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	1.367
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	0s	0m
+SIM_START	scenario 1	2022-06-14 15:27:45
+TIME	1.582
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	116.804
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	116.8s	469.639m
+TIME	141.979
+SIM_START	scenario_3	2022-06-14 15:33:55
+TIME	141.979
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.041
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	scenario_3	0s	469.639m
+TIME	12.830
+SIM_START	scenario_3	2022-06-14 15:36:03
+TIME	0.002
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+		Connection closed...Snapshot created, file 'SimOutput/DESKTOP-NV1O1CA/Snapshot.info'
+SIM_ABORT	scenario_3	0s	469.639m
+SIM_START	scenario_3	2022-06-14 15:36:15
+TIME	1.199
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.041
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+		Connection closed...Snapshot created, file 'SimOutput/DESKTOP-NV1O1CA/Snapshot.info'
+SIM_ABORT	scenario_3	0s	469.639m
+SIM_START	scenario_3	2022-06-14 15:36:24
+TIME	0.929
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.041
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+		Connection closed...Snapshot created, file 'SimOutput/DESKTOP-NV1O1CA/Snapshot.info'
+SIM_ABORT	scenario_3	0s	469.639m
+TIME	3.743
+SIM_START	scenario_3	2022-06-14 15:37:02
+TIME	0.002
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		DrivMan Startposition: failed to get start position on route (ObjId=3, s=0m)
+		UDP_Client started on port 8051Connection closed... 
+		Connection closed...Snapshot created, file 'SimOutput/DESKTOP-NV1O1CA/Snapshot.info'
+SIM_ABORT	scenario_3	0s	469.639m
+TIME	20.817
+SHUTDOWN	CarMaker quick shutdown initiated
+

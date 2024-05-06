@@ -1,0 +1,61 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-05-09 17:36:17
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	17:36:18
+SIM_START	Test	2022-05-09 17:36:19
+TIME	0.125
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.078
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1652110579
+TIME	0.000
+SIMULATE	Test
+
+TIME	177.251
+		Connection closed... 
+SIM_END		Test	177.243s	1669.62m
+TIME	179.707
+SIM_START	Test	2022-05-09 17:40:14
+TIME	179.707
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.069
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1652110814
+TIME	0.000
+SIMULATE	Test
+
+TIME	70.458
+		Connection closed... 
+SIM_END		Test	70.454s	734.157m
+SIM_START	Test	2022-05-09 17:41:27
+TIME	0.002
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1652110887
+TIME	0.000
+SIMULATE	Test
+
+TIME	179.195
+ERROR		IPGDriver: licensing problem (h): license lost (-5) (id=488)
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 179.194000, ErrInd = 488). (id=200)
+		Connection closed... 
+SIM_ABORT	Test	179.195s	1691.44m
+TIME	181.373
+SHUTDOWN	CarMaker quick shutdown initiated
+

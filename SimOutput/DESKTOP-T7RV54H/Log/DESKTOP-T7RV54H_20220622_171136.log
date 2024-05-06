@@ -1,0 +1,10 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #2 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:08:47
+ 
+FIRST_INIT	(internal default used)	2022-06-22 17:11:36
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

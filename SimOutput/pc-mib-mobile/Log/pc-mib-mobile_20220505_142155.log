@@ -1,0 +1,142 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-05-05 14:21:55
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	14:21:55
+TIME	4.433
+SIM_START	scenario 1	2022-05-05 14:22:40
+TIME	4.433
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	4.246
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	4.242s	9.22591m
+TIME	27.069
+SIM_START	scenario 1	2022-05-05 14:26:35
+TIME	27.069
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.345
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+TIME	76.131
+SIM_START	scenario 1	2022-05-05 14:30:41
+TIME	76.131
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.345
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+TIME	488.793
+SIM_START	scenario 1	2022-05-05 15:43:35
+TIME	488.793
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.345
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+TIME	65.162
+SIM_START	scenario 1	2022-05-05 15:45:52
+TIME	0.022
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.345
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+TIME	66.143
+SIM_START	scenario 1	2022-05-05 15:48:18
+TIME	66.143
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	57.345
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario 1	57.342s	661.022m
+TIME	98.652
+SIM_START	scenario 1	2022-05-05 15:56:10
+TIME	98.652
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.026
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1651758970
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	9.596
+		Connection closed... 
+SIM_END		scenario 1	9.592s	59.0308m
+SIM_START	scenario 1	2022-05-05 15:56:33
+TIME	10.804
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.023
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1651758993
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	2.443
+		Connection closed... 
+SIM_END		scenario 1	2.44s	0.567932m
+TIME	4.997
+SIM_START	scenario 1	2022-05-05 15:57:04
+TIME	4.997
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.025
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1651759024
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	41.582
+		Connection closed... 
+SIM_END		scenario 1	41.579s	352.997m
+TIME	46.540
+SIM_START	scenario 1	2022-05-05 15:58:36
+TIME	46.540
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.022
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1651759116
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	2.199
+		Connection closed... 
+SIM_END		scenario 1	2.195s	0.183047m

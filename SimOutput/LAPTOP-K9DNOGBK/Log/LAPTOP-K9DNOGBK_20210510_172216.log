@@ -1,0 +1,57 @@
+APPLICATION	CarMaker 9.1.1 - Car_Generic #475 (win64-9.1.1)
+COMPILED	fh@obelix.ipg 2020-12-18 15:49:20
+ 
+FIRST_INIT	(internal default used)	2021-05-10 17:22:16
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:22:17
+SIM_START	scenario_3	2021-05-10 17:22:17
+TIME	0.054
+ERROR		Traffic object 4: failed to select route -1
+ERROR		Can't get parameters of traffic object 4 (2)
+SIM_ABORT	scenario_3	0s	0m
+TIME	156.315
+SIM_START	scenario_3	2021-05-10 17:48:20
+TIME	0.000
+SIMULATE	scenario_3
+
+TIME	59.020
+SIM_END		scenario_3	59.014s	754.064m
+TIME	143.236
+SIM_START	scenario_3	2021-05-10 18:03:25
+TIME	0.000
+SIMULATE	scenario_3
+
+TIME	49.301
+SIM_END		scenario_3	49.295s	761.567m
+TIME	58.388
+SIM_START	Scenario_4	2021-05-10 18:05:47
+TIME	0.000
+SIMULATE	Scenario_4
+
+TIME	29.227
+SIM_END		Scenario_4	29.222s	428.823m
+TIME	34.406
+SIM_START	scenario_3	2021-05-10 18:07:12
+TIME	0.000
+SIMULATE	scenario_3
+
+TIME	50.851
+SIM_END		scenario_3	50.847s	783.637m
+TIME	72.247
+SIM_START	scenario 1	2021-05-10 18:11:40
+TIME	0.000
+SIMULATE	scenario 1
+
+TIME	7.884
+SIM_END		scenario 1	7.881s	42.0684m
+TIME	715.270
+SIM_START	scenario_2	2021-05-10 20:09:45
+TIME	0.000
+SIMULATE	scenario_2
+
+TIME	82.879
+SIM_END		scenario_2	82.876s	902.792m
+TIME	98.347
+SHUTDOWN	CarMaker quick shutdown initiated
+

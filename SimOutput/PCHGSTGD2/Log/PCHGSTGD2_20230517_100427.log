@@ -1,0 +1,490 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #6 (win64-10.2)
+COMPILED	Tessa-Vis-PC@desktop-t7rv54h 2022-06-22 17:18:30
+ 
+FIRST_INIT	(internal default used)	2023-05-17 10:04:28
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	10:04:28
+SIM_START	Masterarbeit_CarMaker	2023-05-17 10:04:33
+TIME	0.477
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker
+
+TIME	3.070
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker	3.066s	11.0026m
+TIME	17.067
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:06:57
+TIME	17.067
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	24.823
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	24.82s	58.4294m
+TIME	27.113
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:07:47
+TIME	27.113
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	16.227
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	16.223s	58.416m
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:08:18
+TIME	17.656
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	16.150
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	16.147s	58.416m
+TIME	19.454
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:09:09
+TIME	19.454
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	11.808
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	11.805s	48.437m
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:09:42
+TIME	13.774
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	11.182
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	11.178s	57.4119m
+TIME	14.698
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:10:30
+TIME	0.002
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	9.994
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	9.99s	55.0205m
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:10:55
+TIME	11.384
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	12.117
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	12.114s	58.4402m
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:11:20
+TIME	13.329
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	13.304
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	13.301s	61.4189m
+TIME	16.269
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:12:05
+TIME	16.269
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	12.115
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	12.111s	63.8887m
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:12:33
+TIME	13.632
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	14.045
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	14.041s	58.954m
+SIM_START	Masterarbeit_Newalkar_CarMaker	2023-05-17 10:12:58
+TIME	14.967
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_Newalkar_CarMaker
+
+TIME	18.364
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_Newalkar_CarMaker	18.36s	59.2455m
+TIME	23.922
+SIM_START	Masterarbeit_CarMaker	2023-05-17 10:14:13
+TIME	23.922
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker
+
+TIME	2.426
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker	2.423s	6.41295m
+SIM_START	Masterarbeit_CarMaker_2023	2023-05-17 10:14:36
+TIME	4.288
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker_2023
+
+TIME	12.072
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker_2023	12.067s	64.1678m
+TIME	14.943
+SIM_START	Masterarbeit_CarMaker_2023	2023-05-17 10:15:18
+TIME	14.943
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	Masterarbeit_CarMaker_2023
+
+TIME	17.389
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		Masterarbeit_CarMaker_2023	17.386s	205.501m
+TIME	25.126
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:16:54
+TIME	25.126
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	23.515
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	23.512s	290.572m
+TIME	25.624
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:17:40
+TIME	25.624
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	7.794
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	7.789s	65.7792m
+TIME	12.732
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:18:39
+TIME	12.732
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	15.186
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	15.183s	174.973m
+TIME	18.075
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:19:24
+TIME	18.075
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	15.801
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	15.796s	184.365m
+TIME	22.108
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:20:45
+TIME	22.108
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+ERROR		Traffic object 1: Start road position is outside of route/path length
+ERROR		Can't get parameters of traffic object 1 (2)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	new_Masterarbeit_Newalkar_CarMaker	0s	184.365m
+TIME	3.123
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:21:16
+TIME	3.123
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.011
+ERROR		Traffic object 1: Start road position is outside of route/path length
+ERROR		Can't get parameters of traffic object 1 (2)
+		UDP_Client started on port 8051Connection closed... 
+SIM_ABORT	new_Masterarbeit_Newalkar_CarMaker	0s	0m
+TIME	2.561
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:21:42
+TIME	2.561
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	7.904
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	7.901s	70.2311m
+TIME	12.690
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:22:39
+TIME	12.690
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	15.692
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	15.687s	63.4255m
+TIME	18.334
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:23:22
+TIME	18.334
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	19.765
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	19.762s	63.4272m
+TIME	22.011
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:24:06
+TIME	22.011
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	29.410
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	29.407s	63.2915m
+TIME	34.032
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:25:23
+TIME	34.032
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	7.195
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	7.19s	4.63864m
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:25:39
+TIME	7.902
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	5.125
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	5.122s	9.00877m
+TIME	14.115
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:27:15
+TIME	14.115
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	10.970
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	10.967s	113.888m
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:27:44
+TIME	12.565
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	14.662
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	14.658s	168.54m
+TIME	21.018
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:29:03
+TIME	21.018
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	9.800
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	9.797s	96.1378m
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:29:24
+TIME	10.723
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	8.122
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	8.118s	71.1042m
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:29:40
+TIME	8.790
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	8.799
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	8.796s	81.1085m
+TIME	14.006
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:30:42
+TIME	14.006
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	9.100
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	9.097s	83.1069m
+TIME	11.456
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:31:16
+TIME	11.456
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	8.458
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	8.454s	76.0375m
+TIME	10.631
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:31:48
+TIME	10.631
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	8.933
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	8.93s	83.1064m
+TIME	11.098
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:32:20
+TIME	11.098
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	8.933
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	8.93s	83.1064m
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:32:48
+TIME	10.742
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	8.933
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	8.93s	83.1064m
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:33:07
+TIME	9.841
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	8.933
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	8.93s	83.1064m
+TIME	11.897
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:33:47
+TIME	11.897
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	8.935
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	8.932s	83.1121m
+TIME	11.205
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:34:20
+TIME	11.205
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	9.059
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	9.056s	84.1204m
+TIME	15.123
+SIM_START	new_Masterarbeit_Newalkar_CarMaker	2023-05-17 10:35:31
+TIME	15.123
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	new_Masterarbeit_Newalkar_CarMaker
+
+TIME	9.059
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		new_Masterarbeit_Newalkar_CarMaker	9.056s	84.1204m
+TIME	13.167
+SHUTDOWN	CarMaker quick shutdown initiated
+

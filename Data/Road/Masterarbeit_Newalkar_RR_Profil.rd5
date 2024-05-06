@@ -1,0 +1,148 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = IPGRoad 10.0
+FileCreator = CarMaker 10.2
+Description:
+	Converted OpenDRIVE File (Revision 1.4)
+	Original File: Data/Road/Masterarbeit_Newalkar_RR_Profil.xodr
+	Version: 1
+LibVersion = 10.2
+Country = DEU
+nLinks = 1
+nJunctions = 0
+nObjects = 128
+nRoutes = 2
+RoadNetworkLength = 115.535096512592
+BBox = -26.166564859485 50.0508871488534 -252.137302904685 -122.610745669335 -11 11
+Route.0.Length = 115.535096512592
+Route.1.Length = 115.535096512592
+RST.Unit = kmh
+RST = 50 100 130 30 70 30 0 -1
+Movie = 0.2 1 0.01 0 0 1 1
+PathMode = -1
+Link.0.ID = 0
+Link.0.Node0 = 35.8099975585938 -239.599990844727 0 124.32227181783
+Link.0.Node1 = -11.379990100131 -134.470027001763 0 111.227997384172
+Link.0.RST = Urban
+Link.0.Tag = odrRoadId:0
+Link.0.RL.ID = 1
+Link.0.Seg.0.ID = 5
+Link.0.Seg.0.Type = TurnRight
+Link.0.Seg.0.Param = 227.777700052535 13.0942744336587 0 0 0 0 0 0
+Link.0.Seg.1.ID = 6
+Link.0.Seg.1.Type = Straight
+Link.0.Seg.1.Param = 63.4791904807263 0 0 0 0 0 0 0
+Link.0.LateralCenterLineOffset.ID = 9
+Link.0.LateralCenterLineOffset:
+	10 -1 0 0 4 0 0 0 0
+	11 -1 0 1 0 0 0 -999 -999
+Link.0.LaneSection.0.ID = 12
+Link.0.LaneSection.0.Start = 0
+Link.0.LaneSection.0.LaneL.0.ID = 14
+Link.0.LaneSection.0.LaneL.0 = 0 3.5 3.5 0 0 0 0
+Link.0.LaneSection.0.LaneL.0.ARP = 15 16 17 18 19 20
+Link.0.LaneSection.0.LaneL.0.Width:
+	24 -1 0 0 4 3.5 0 0 0
+Link.0.LaneSection.0.LaneL.1.ID = 25
+Link.0.LaneSection.0.LaneL.1 = 0 0 0 20 0 0 0
+Link.0.LaneSection.0.LaneL.1.ARP = 26 27 28 29 30 31
+Link.0.LaneSection.0.LaneL.1.Width:
+	34 -1 0 0 4 0 0 0 0
+Link.0.LaneSection.0.LaneL.2.ID = 35
+Link.0.LaneSection.0.LaneL.2 = 0 0 0.635 20 0 0 0
+Link.0.LaneSection.0.LaneL.2.ARP = 36 37 38 39 40 41
+Link.0.LaneSection.0.LaneL.2.Width:
+	44 -1 0 0 4 0 0 0.000142714176897827 -8.23496820190757e-007
+Link.0.LaneSection.0.LaneL.3.ID = 46
+Link.0.LaneSection.0.LaneL.3 = 0 0 0 11 0 0 0
+Link.0.LaneSection.0.LaneL.3.ARP = 47 48 49 50 51 52
+Link.0.LaneSection.0.LaneL.3.Width:
+	55 -1 0 0 4 0 0 0 0
+Link.0.LaneSection.0.LaneL.4.ID = 97
+Link.0.LaneSection.0.LaneL.4 = 0 1 1 5 0 0 0
+Link.0.LaneSection.0.LaneR.0.ID = 56
+Link.0.LaneSection.0.LaneR.0 = 0 3.5 3.5 0 0 0 0
+Link.0.LaneSection.0.LaneR.0.ARP = 57 58 59 60 61 62
+Link.0.LaneSection.0.LaneR.0.Width:
+	65 -1 0 0 4 3.5 0 0 0
+Link.0.LaneSection.0.LaneR.1.ID = 66
+Link.0.LaneSection.0.LaneR.1 = 0 0 0 20 0 0 0
+Link.0.LaneSection.0.LaneR.1.ARP = 67 68 69 70 71 72
+Link.0.LaneSection.0.LaneR.1.Width:
+	75 -1 0 0 4 0 0 0 0
+Link.0.LaneSection.0.LaneR.2.ID = 76
+Link.0.LaneSection.0.LaneR.2 = 0 0.635 0.635 20 0 0 0
+Link.0.LaneSection.0.LaneR.2.ARP = 77 78 79 80 81 82
+Link.0.LaneSection.0.LaneR.2.Width:
+	85 -1 0 0 4 0.635 0 0 0
+Link.0.LaneSection.0.LaneR.3.ID = 87
+Link.0.LaneSection.0.LaneR.3 = 0 0 0 11 0 0 0
+Link.0.LaneSection.0.LaneR.3.ARP = 88 89 90 91 92 93
+Link.0.LaneSection.0.LaneR.3.Width:
+	96 -1 0 0 4 0 0 0 0
+Link.0.LaneSection.0.LaneR.4.ID = 98
+Link.0.LaneSection.0.LaneR.4 = 0 1 1 5 0 0 0
+Link.0.ElevationProfile.ID = 2
+Link.0.ElevationProfile.Params = 0 0
+Link.0.ElevationProfile:
+	99 -1 0 0 0 0 0
+	100 -1 0 1 0 0 0
+LanePath.0 = 21 14 2 10 0.1 0.1
+LanePath.1 = 32 25 -1 10 0.1 0.1
+LanePath.2 = 42 35 2.75 1 0 0
+LanePath.3 = 53 46 2 10 0.1 0.1
+LanePath.4 = 63 56 2 10 0.1 0.1
+LanePath.5 = 73 66 -1 10 0.1 0.1
+LanePath.6 = 83 76 2.75 1 0 0
+LanePath.7 = 94 87 2 10 0.1 0.1
+Route.0.ID = 104
+Route.0.Name = Route_0
+Route.0.DrvPath.ID = 105
+Route.0.DrvPath:
+	63
+Route.1.ID = 106
+Route.1.Name = Route_1
+Route.1.DrvPath.ID = 107
+Route.1.DrvPath:
+	21
+RL.1.RoadMarking.0.ID = 13 12
+RL.1.RoadMarking.0 = 0 0 0 1 0 0 0.150000005960464 0 2 0 0 2 4 1 1 0 ""
+RL.1.RoadMarking.0.Material.0 = white 0 0 0 0 0 0 0 0 0 0 0
+RL.1.RoadMarking.1.ID = 45 35
+RL.1.RoadMarking.1 = 0 0 0 1 0 1 0.1524 0 1 0 0 2 4 1 1 0 ""
+RL.1.RoadMarking.1.Material.0 = white 0 0 0 0 0 0 0 0 0 0 0
+RL.1.RoadMarking.2.ID = 86 76
+RL.1.RoadMarking.2 = 0 0 0 1 0 -1 0.1524 0 1 0 0 2 4 1 1 0 ""
+RL.1.RoadMarking.2.Material.0 = white 0 0 0 0 0 0 0 0 0 0 0
+RL.1.Marker.0.ID = 7 1
+RL.1.Marker.0.Type = DrvSpeed
+RL.1.Marker.0.Param = 0 0 1 25 mph
+RL.1.Marker.1.ID = 8 1
+RL.1.Marker.1.Type = DrvSpeed
+RL.1.Marker.1.Param = 0 1 -1 25 mph
+RL.1.Bump.0.ID = 108 1
+RL.1.Bump.0.Type = RaisedProfileRSR
+RL.1.Bump.0.Param = 0.004 0 115.535 0 0 -1 0 1 0 0 0.3 0 0.15 0
+RL.1.Bump.0.Material.0 = Textures/Ground/Curbstone.png 0 0 0 0 1 1 2 0.5 0 0 0
+RL.1.Bump.0.Material.1 = Textures/Ground/Curbstone.png 0 0 0 0 1 1 2 1 0 0 0
+RL.1.Bump.0.Material.2 = Textures/Ground/Pavement_01.jpg 0 0 2 0 1 1 1 1 0 0 0
+RL.1.Bump.0.Material.3 = Textures/Ground/Grass_02.jpg 0 0 0 0 1 1 1 1 0 0 0
+RL.1.Bump.0.Node1DProfile.0.ID = 109
+RL.1.Bump.0.Node1DProfile.0.Param = 0 2.5 0 2.5 0 0
+RL.1.Bump.0.Node1DProfile.1.ID = 110
+RL.1.Bump.0.Node1DProfile.1.Param = 0 0.12 0 0.12 0 0
+RL.1.Bump.0.Node1DProfile.2.ID = 111
+RL.1.Bump.0.Node1DProfile.2.Param = 0 0.12 0 0.12 0 0
+RL.1.Bump.1.ID = 118 1
+RL.1.Bump.1.Type = RaisedProfileRSL
+RL.1.Bump.1.Param = 0.119 0 115.535 0 0 1 0 0 0 0 0.3 0 0.15 0
+RL.1.Bump.1.Material.0 = Textures/Ground/Curbstone.png 0 0 0 0 1 1 2 0.5 0 0 0
+RL.1.Bump.1.Material.1 = Textures/Ground/Curbstone.png 0 0 0 0 1 1 2 1 0 0 0
+RL.1.Bump.1.Material.2 = Textures/Ground/Pavement_01.jpg 0 0 2 0 1 1 1 1 0 0 0
+RL.1.Bump.1.Material.3 = Textures/Ground/Grass_02.jpg 0 0 0 0 1 1 1 1 0 0 0
+RL.1.Bump.1.Node1DProfile.0.ID = 119
+RL.1.Bump.1.Node1DProfile.0.Param = 0 2.5 0 2.5 0 0
+RL.1.Bump.1.Node1DProfile.1.ID = 120
+RL.1.Bump.1.Node1DProfile.1.Param = 0 0.12 0 0.12 0 0
+RL.1.Bump.1.Node1DProfile.2.ID = 121
+RL.1.Bump.1.Node1DProfile.2.Param = 0 0.12 0 0.12 0 0
+MaxUsedObjId = 121

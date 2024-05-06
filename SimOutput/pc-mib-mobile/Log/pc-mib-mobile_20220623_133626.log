@@ -1,0 +1,47 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-06-23 13:36:26
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	13:36:27
+SIM_START	scenario_1_and_2	2022-06-23 13:36:27
+TIME	0.027
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	20.414
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2	20.41s	82.2411m
+TIME	22.995
+SIM_START	scenario_3_and_4	2022-06-23 13:37:14
+TIME	22.995
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	12.026
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_3_and_4	12.022s	95.6148m
+SIM_START	scenario_3_and_4	2022-06-23 13:37:43
+TIME	13.529
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	11.457
+SHUTDOWN	CarMaker quick shutdown initiated
+
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_3_and_4	11.457s	90.8057m

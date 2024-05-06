@@ -1,0 +1,39 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-05-09 14:13:50
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	14:13:50
+SIM_START	unknown	2022-05-09 14:13:52
+TIME	0.202
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.064
+		UDP_Client started on port 8051Traffic.0.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Traffic.1.AutoDrv.Lat: Long. autonomous model 'Generic' not recommended
+		Current random seed value = 1652098432
+TIME	124.764
+WARNING		Cannot start simulation, must be in state 'Idle' (currently 'StartSim')
+TIME	0.000
+SIMULATE	unknown
+
+TIME	21.751
+		Connection closed... 
+SIM_END		unknown	21.748s	109.214m
+TIME	26.170
+SIM_START	unknown	2022-05-09 14:15:02
+TIME	26.170
+ERROR		Testrun file doesn't exist, file '.tmp_pc-mib-mobile_Students.1'
+		Connection closed...Current random seed value = 1652098432
+TIME	0.004
+		Connection closed... 
+SIM_ABORT	unknown	0s	109.214m
+		Connection closed...Connection to GUI lost, initiate shutdown
+SHUTDOWN	Automatic CarMaker shutdown initiated
+

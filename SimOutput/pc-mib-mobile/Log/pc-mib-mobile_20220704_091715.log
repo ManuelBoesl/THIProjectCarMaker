@@ -1,0 +1,72 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #24 (win64-10.0)
+COMPILED	Students@pc-mib-mobile 2021-07-06 17:16:41
+ 
+FIRST_INIT	(internal default used)	2022-07-04 09:17:15
+TIME	0.000
+		Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+		UDP_Client started on port 8051Connection closed... 
+SIM_END			0s	0m
+IDLE	09:17:16
+TIME	6.763
+SIM_START	scenario_1_and_2	2022-07-04 09:18:23
+TIME	6.763
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	80.553
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2	80.55s	597.921m
+TIME	87.891
+SIM_START	scenario_3_and_4	2022-07-04 09:20:58
+TIME	87.891
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_3_and_4
+
+TIME	107.303
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_3_and_4	107.3s	1054.13m
+TIME	114.998
+SIM_START	scenario_1_and_2	2022-07-04 09:24:05
+TIME	114.998
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	80.553
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2	80.55s	597.921m
+TIME	146.157
+SIM_START	scenario_1_and_2	2022-07-04 09:36:22
+TIME	146.157
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	10.586
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2	10.582s	41.2932m
+SIM_START	scenario_1_and_2	2022-07-04 09:36:49
+TIME	12.101
+		Connection closed...Sender started with UDP Configuration: 
+ IP-Adress: 127.0.0.1 
+ Port: 8051 
+TIME	0.000
+SIMULATE	scenario_1_and_2
+
+TIME	5.774
+		UDP_Client started on port 8051Connection closed... 
+SIM_END		scenario_1_and_2	5.77s	21.1854m
+SHUTDOWN	CarMaker quick shutdown initiated
+
