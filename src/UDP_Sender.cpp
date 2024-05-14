@@ -20,6 +20,9 @@
 #include <string>
 #include "User.h"
 
+#include <fstream>
+#include "addressbook.pb.h"
+
 #pragma comment (lib, "ws2_32.lib")
 using namespace std;
 

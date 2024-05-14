@@ -8,6 +8,7 @@ typedef struct Vhcl_Data {
 	double steeringWheelAngl;
 	double velocity;
 	int type;
+    int id;
 }Vhcl_Data;
 
 typedef struct TrfLightCntrlData {
