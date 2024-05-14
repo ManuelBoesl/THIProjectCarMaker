@@ -382,7 +382,8 @@ User_TestRun_Start_atBegin(void)
 {
     // Start UDP Sender
     UDP_Sender_StartConnection(sender);
-    UDP_Sender_SendFirstPaket(sender);
+    // UDP_Sender_SendFirstPaket(sender);
+    UDP_Sender_SendProtoFirst(sender);
 
     UDP_Client_StartConnection(client);
 
@@ -525,7 +526,8 @@ User_TestRun_End_First(void)
 int
 User_TestRun_End(void)
 {
-    UDP_Sender_SendLastPaket(sender);
+    //UDP_Sender_SendLastPaket(sender);
+    UDP_Sender_SendProtoLast(sender);
     UDP_Sender_StopConnection(sender);
 
     UDP_Client_StopConnection(client);
@@ -659,7 +661,8 @@ User_Calc(double dt)
     else {
 
         // Send all Data over UDP to Unity
-        UDP_Sender_SendInput(sender);
+        //UDP_Sender_SendInput(sender);
+        UDP_Sender_SendProtoInput(sender);
 
         UDP_Client_GetCurrentUnityInput(client);
 

@@ -56,3 +56,7 @@ EXPORT_C void UDP_Sender_SendLastPaket(UDP_Sender*);
 EXPORT_C void UDP_Sender_SendFirstPaket(UDP_Sender*);
 EXPORT_C int UDP_Sender_StartConnection(UDP_Sender*);
 EXPORT_C void UDP_Sender_StopConnection(UDP_Sender*);
+
+EXPORT_C void UDP_Sender_SendProtoInput(UDP_Sender*);
+EXPORT_C void UDP_Sender_SendProtoLast(UDP_Sender*);
+EXPORT_C void UDP_Sender_SendProtoFirst(UDP_Sender*);
