@@ -26,6 +26,8 @@ Data_Serializer::Data_Serializer()
 string Data_Serializer::Serialize_Vhcl_Data(Vhcl_Data v) {
 	
 	string serialized_Vhcl_Data;
+
+    serialized_Vhcl_Data.append(to_string(v.id) + "_");
 	serialized_Vhcl_Data.append(to_string(v.x) + "_");
 	serialized_Vhcl_Data.append(to_string(v.y) + "_");
 	serialized_Vhcl_Data.append(to_string(v.z) + "_");
@@ -51,6 +53,7 @@ string Data_Serializer::Serialize_TrafficObj_Data(Vhcl_Data v) {
 
 	string serialized_TrafficObj_Data;
 
+    serialized_TrafficObj_Data.append(to_string(v.id) + "_");
 	serialized_TrafficObj_Data.append(to_string(v.x) + "_");
 	serialized_TrafficObj_Data.append(to_string(v.y) + "_");
 	serialized_TrafficObj_Data.append(to_string(v.z) + "_");
