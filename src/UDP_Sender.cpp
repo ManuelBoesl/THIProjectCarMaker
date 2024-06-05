@@ -21,7 +21,7 @@
 #include "User.h"
 
 #include <fstream>
-#include "CarMakerData.pb.h"
+//#include "CarMakerData.pb.h"
 
 #pragma comment (lib, "ws2_32.lib")
 using namespace std;
@@ -132,23 +132,23 @@ EXPORT_C void UDP_Sender_SendFirstPaket(UDP_Sender*) {
 	int sendOk = sendto(out, serialized_data.c_str(), (int)serialized_data.size() + 1, 0, (sockaddr*)&server, sizeof(server));
 }
 
-EXPORT_C void UDP_Sender_SendProtoInput(UDP_Sender*) {
-    CMData::CarMakerData data_to_send = retriever.Retrieve_CarMaker_Data(0);
-
-    int sendOk = sendto(out, data_to_send.SerializeAsString().c_str(), (int)data_to_send.SerializeAsString().size() + 1, 0, (sockaddr*)&server, sizeof(server));
-}
-
-EXPORT_C void UDP_Sender_SendProtoLast(UDP_Sender*) {
-    CMData::CarMakerData data_to_send = retriever.Retrieve_CarMaker_Data(2);
-
-    int sendOk = sendto(out, data_to_send.SerializeAsString().c_str(), (int)data_to_send.SerializeAsString().size() + 1, 0, (sockaddr*)&server, sizeof(server));
-}
-
-EXPORT_C void UDP_Sender_SendProtoFirst(UDP_Sender*) {
-    CMData::CarMakerData data_to_send = retriever.Retrieve_CarMaker_Data(1);
-
-    int sendOk = sendto(out, data_to_send.SerializeAsString().c_str(), (int)data_to_send.SerializeAsString().size() + 1, 0, (sockaddr*)&server, sizeof(server));
-}
+//EXPORT_C void UDP_Sender_SendProtoInput(UDP_Sender*) {
+//    CMData::CarMakerData data_to_send = retriever.Retrieve_CarMaker_Data(0);
+//
+//    int sendOk = sendto(out, data_to_send.SerializeAsString().c_str(), (int)data_to_send.SerializeAsString().size() + 1, 0, (sockaddr*)&server, sizeof(server));
+//}
+//
+//EXPORT_C void UDP_Sender_SendProtoLast(UDP_Sender*) {
+//    CMData::CarMakerData data_to_send = retriever.Retrieve_CarMaker_Data(2);
+//
+//    int sendOk = sendto(out, data_to_send.SerializeAsString().c_str(), (int)data_to_send.SerializeAsString().size() + 1, 0, (sockaddr*)&server, sizeof(server));
+//}
+//
+//EXPORT_C void UDP_Sender_SendProtoFirst(UDP_Sender*) {
+//    CMData::CarMakerData data_to_send = retriever.Retrieve_CarMaker_Data(1);
+//
+//    int sendOk = sendto(out, data_to_send.SerializeAsString().c_str(), (int)data_to_send.SerializeAsString().size() + 1, 0, (sockaddr*)&server, sizeof(server));
+//}
 
 EXPORT_C void UDP_Sender_StopConnection(UDP_Sender*) {
 	Log("Connection closed... \n");

@@ -26,7 +26,7 @@
   <ImportGroup Label="ExtensionSettings" />
   <ImportGroup Label="PropertySheets" Condition="'$(Platform)'=='x64'">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="C:/IPG/carmaker/win64-10.0/include/MSVS_Defs.props" />
+    <Import Project="C:/IPG/carmaker/win64-10.2/include/MSVS_Defs.props" />
     <Import Project="./CarMaker.props" />
   </ImportGroup>
   <ItemDefinitionGroup>
