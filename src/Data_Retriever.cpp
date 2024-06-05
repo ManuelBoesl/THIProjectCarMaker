@@ -93,46 +93,48 @@ std::string Data_Retriever::Retrieve_Data() {
 		}
 	}
 
+    // This is all traffic light data, not needed for now
+    // --------------------------------------------------------------------------------------------
 
 
-	// Append number of Traffic Lights present in the scenario
-	returnData.append("TrfLights.nObj_" + std::to_string(TrfLight.nObjs) + ";");
-
-	// Dictionary that contains TrfLight Data as values and geometric Object IDs as Keys
-	// -> The Traffic Light's geometric object contains the ObjID which is needed to match the Traffic light with it's 
-	//	  Unity pendants
-	std::map<int, TrfLightCntrlData> TrfLightCntrlDataList;
-
-	// Get data from all Traffic Lights
-	// TrfLight contains a array of traffic light, which each containts another array with Traffic Light geometry objects
-	// -> Those geometry object arrays are similar in one junction controller but different between the junction controllers
-	// -> Here I use a Dictionary to check if the Traffic light geometric object has already been added to the dictionary
-	// -> There is no usable documentation by IPG on how the traffic light system in CM works, so this is guesswork
-	for (int y = 0; y < TrfLight.nObjs; y++) {
-		for (int z = 0; z < sizeof(TrfLight.Objs[y].TLList); z++) {
-			try {
-				TrfLightCntrlData trf_light = Get_TrfLight_Data(y, z);
-
-				if (TrfLightCntrlDataList.find(TrfLight.Objs[y].TLList[z].ObjId) == TrfLightCntrlDataList.end()) {
-					// Object IDs of the geometric objects are sometimes not assigned and can contain 0 or 
-					// non-integer values for some reason
-					if (TrfLight.Objs[y].TLList[z].ObjId > 0 && TrfLight.Objs[y].TLList[z].ObjId < 1000) {
-						TrfLightCntrlDataList[TrfLight.Objs[y].TLList[z].ObjId] = trf_light;
-					}
-				}
-			}
-			catch (std::exception e) {
-				Log("Traffic light couldn't be read");
-			}
-			// Debug
-			// Log("Current entry: %i, %i \n", TrfLight.Objs[6].TLList[y].ObjId, y);
-		}
-	}
-
-	// Serialize Traffic Light Data and append it to the return data
-	for (auto& x : TrfLightCntrlDataList) {
-		returnData.append(retrievedData_Serializer.Serialize_TrfLight_Data(x.second));
-	}
+//	// Append number of Traffic Lights present in the scenario
+//	returnData.append("TrfLights.nObj_" + std::to_string(TrfLight.nObjs) + ";");
+//
+//	// Dictionary that contains TrfLight Data as values and geometric Object IDs as Keys
+//	// -> The Traffic Light's geometric object contains the ObjID which is needed to match the Traffic light with it's
+//	//	  Unity pendants
+//	std::map<int, TrfLightCntrlData> TrfLightCntrlDataList;
+//
+//	// Get data from all Traffic Lights
+//	// TrfLight contains a array of traffic light, which each containts another array with Traffic Light geometry objects
+//	// -> Those geometry object arrays are similar in one junction controller but different between the junction controllers
+//	// -> Here I use a Dictionary to check if the Traffic light geometric object has already been added to the dictionary
+//	// -> There is no usable documentation by IPG on how the traffic light system in CM works, so this is guesswork
+//	for (int y = 0; y < TrfLight.nObjs; y++) {
+//		for (int z = 0; z < sizeof(TrfLight.Objs[y].TLList); z++) {
+//			try {
+//				TrfLightCntrlData trf_light = Get_TrfLight_Data(y, z);
+//
+//				if (TrfLightCntrlDataList.find(TrfLight.Objs[y].TLList[z].ObjId) == TrfLightCntrlDataList.end()) {
+//					// Object IDs of the geometric objects are sometimes not assigned and can contain 0 or
+//					// non-integer values for some reason
+//					if (TrfLight.Objs[y].TLList[z].ObjId > 0 && TrfLight.Objs[y].TLList[z].ObjId < 1000) {
+//						TrfLightCntrlDataList[TrfLight.Objs[y].TLList[z].ObjId] = trf_light;
+//					}
+//				}
+//			}
+//			catch (std::exception e) {
+//				Log("Traffic light couldn't be read");
+//			}
+//			// Debug
+//			// Log("Current entry: %i, %i \n", TrfLight.Objs[6].TLList[y].ObjId, y);
+//		}
+//	}
+//
+//	// Serialize Traffic Light Data and append it to the return data
+//	for (auto& x : TrfLightCntrlDataList) {
+//		returnData.append(retrievedData_Serializer.Serialize_TrfLight_Data(x.second));
+//	}
 
 	return returnData;
 }
@@ -189,44 +191,44 @@ std::string Data_Retriever::Retrieve_Data(int signalToSend) {
 
 
 
-	// Append number of Traffic Lights present in the scenario
-	returnData.append("TrfLights.nObj_" + std::to_string(TrfLight.nObjs) + ";");
-
-	// Dictionary that contains TrfLight Data as values and geometric Object IDs as Keys
-	// -> The Traffic Light's geometric object contains the ObjID which is needed to match the Traffic light with it's 
-	//	  Unity pendants
-	std::map<int, TrfLightCntrlData> TrfLightCntrlDataList;
-
-	// Get data from all Traffic Lights
-	// TrfLight contains a array of traffic light, which each containts another array with Traffic Light geometry objects
-	// -> Those geometry object arrays are similar in one junction controller but different between the junction controllers
-	// -> Here I use a Dictionary to check if the Traffic light geometric object has already been added to the dictionary
-	// -> There is no usable documentation by IPG on how the traffic light system in CM works, so this is guesswork
-	for (int y = 0; y < TrfLight.nObjs; y++) {
-		for (int z = 0; z < sizeof(TrfLight.Objs[y].TLList); z++) {
-			try {
-				TrfLightCntrlData trf_light = Get_TrfLight_Data(y, z);
-
-				if (TrfLightCntrlDataList.find(TrfLight.Objs[y].TLList[z].ObjId) == TrfLightCntrlDataList.end()) {
-					// Object IDs of the geometric objects are sometimes not assigned and can contain 0 or 
-					// non-integer values for some reason
-					if (TrfLight.Objs[y].TLList[z].ObjId > 0 && TrfLight.Objs[y].TLList[z].ObjId < 1000) {
-						TrfLightCntrlDataList[TrfLight.Objs[y].TLList[z].ObjId] = trf_light;
-					}
-				}
-			}
-			catch (std::exception e) {
-				Log("Traffic light couldn't be read");
-			}
-			// Debug
-			// Log("Current entry: %i, %i \n", TrfLight.Objs[6].TLList[y].ObjId, y);
-		}
-	}
-
-	// Serialize Traffic Light Data and append it to the return data
-	for (auto& x : TrfLightCntrlDataList) {
-		returnData.append(retrievedData_Serializer.Serialize_TrfLight_Data(x.second));
-	}
+//	// Append number of Traffic Lights present in the scenario
+//	returnData.append("TrfLights.nObj_" + std::to_string(TrfLight.nObjs) + ";");
+//
+//	// Dictionary that contains TrfLight Data as values and geometric Object IDs as Keys
+//	// -> The Traffic Light's geometric object contains the ObjID which is needed to match the Traffic light with it's
+//	//	  Unity pendants
+//	std::map<int, TrfLightCntrlData> TrfLightCntrlDataList;
+//
+//	// Get data from all Traffic Lights
+//	// TrfLight contains a array of traffic light, which each containts another array with Traffic Light geometry objects
+//	// -> Those geometry object arrays are similar in one junction controller but different between the junction controllers
+//	// -> Here I use a Dictionary to check if the Traffic light geometric object has already been added to the dictionary
+//	// -> There is no usable documentation by IPG on how the traffic light system in CM works, so this is guesswork
+//	for (int y = 0; y < TrfLight.nObjs; y++) {
+//		for (int z = 0; z < sizeof(TrfLight.Objs[y].TLList); z++) {
+//			try {
+//				TrfLightCntrlData trf_light = Get_TrfLight_Data(y, z);
+//
+//				if (TrfLightCntrlDataList.find(TrfLight.Objs[y].TLList[z].ObjId) == TrfLightCntrlDataList.end()) {
+//					// Object IDs of the geometric objects are sometimes not assigned and can contain 0 or
+//					// non-integer values for some reason
+//					if (TrfLight.Objs[y].TLList[z].ObjId > 0 && TrfLight.Objs[y].TLList[z].ObjId < 1000) {
+//						TrfLightCntrlDataList[TrfLight.Objs[y].TLList[z].ObjId] = trf_light;
+//					}
+//				}
+//			}
+//			catch (std::exception e) {
+//				Log("Traffic light couldn't be read");
+//			}
+//			// Debug
+//			// Log("Current entry: %i, %i \n", TrfLight.Objs[6].TLList[y].ObjId, y);
+//		}
+//	}
+//
+//	// Serialize Traffic Light Data and append it to the return data
+//	for (auto& x : TrfLightCntrlDataList) {
+//		returnData.append(retrievedData_Serializer.Serialize_TrfLight_Data(x.second));
+//	}
 
 	return returnData;
 }

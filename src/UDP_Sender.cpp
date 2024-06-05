@@ -102,7 +102,7 @@ EXPORT_C void UDP_Sender_SendInput(UDP_Sender*) {
 	string serialized_data = retriever.Retrieve_Data();
 
 	// Debug
-	// Log("%s \n", serialized_data.c_str());
+	Log("%s \n", serialized_data.c_str());
 
 	// Send the Data to Unity
 	int sendOk = sendto(out, serialized_data.c_str(), (int)serialized_data.size() + 1, 0, (sockaddr*)&server, sizeof(server));
@@ -114,7 +114,7 @@ EXPORT_C void UDP_Sender_SendLastPaket(UDP_Sender*) {
 	string serialized_data = retriever.Retrieve_Data(2);
 
 	// Debug
-	// Log("%s \n", serialized_data.c_str());
+	Log("%s \n", serialized_data.c_str());
 
 	// Send the Data to Unity
 	int sendOk = sendto(out, serialized_data.c_str(), (int)serialized_data.size() + 1, 0, (sockaddr*)&server, sizeof(server));
@@ -126,7 +126,7 @@ EXPORT_C void UDP_Sender_SendFirstPaket(UDP_Sender*) {
 	string serialized_data = retriever.Retrieve_Data(1);
 
 	// Debug
-	// Log("%s \n", serialized_data.c_str());
+	Log("%s \n", serialized_data.c_str());
 
 	// Send the Data to Unity
 	int sendOk = sendto(out, serialized_data.c_str(), (int)serialized_data.size() + 1, 0, (sockaddr*)&server, sizeof(server));
